@@ -1,0 +1,332 @@
+﻿
+@{
+    ViewData["Title"] = "İş Başvurusu";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+	.single_contact_now {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		height: 90%;
+	}
+
+	.single_contact_now_inner {
+		display: flex;
+		flex-direction: column;
+		height: 100%;
+	}
+
+</style>
+
+<div class="appointment_form pb-100">
+	<div class="container">
+		<div class="row nagative_margin">
+			<div class="col-xl-12">
+				<div class="appointment_form_inner">
+					<div class="appointment_title pb-35">
+						<h1>Başvuru Formu</h1>
+					</div>
+					<form id="contact_form"
+						  method="POST"
+						  id="dreamit-form">
+						<p class="h6">Kimlik Bilgileri</p>
+						<div class="row">
+
+							<div class="col-lg-6">
+								<h6>İsminiz</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<h6>Soyisminiz</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Soyisim" placeholder="Soyisminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<h6>Doğum Tarihi</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<h6>Doğum Yeri</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Soyisim" placeholder="Soyisminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<h6>Telefon GSM</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<h6>Telefon EV</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Soyisim" placeholder="Soyisminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<h6>Mail</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<h6>Medeni Hal</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Soyisim" placeholder="Soyisminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<h6>Uyruk</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<h6>Cİnsiyet</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<h6>İl</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Soyisim" placeholder="Soyisminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<h6>İlçe</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-12">
+								<h6>Adresiniz</h6>
+								<div class="form_box mb-30">
+									<textarea name="Aciklama"
+											  id="message"
+											  cols="30"
+											  rows="10"
+											  placeholder="Mesajınız"></textarea>
+								</div>
+							</div>
+						</div>
+						<p class="h6">Eğitim Bilgileri</p>
+						<div class="row">
+
+							<div class="col-lg-6">
+								<h6>Mezuniyet Derecesi</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<h6>Bölüm</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<h6>Son Mezun Olunan Okul</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<h6>Mezuniyet Yılı</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+						</div>
+						<p class="h6">Askerlik Bilgileri</p>
+						<div class="row">
+
+							<div class="col-lg-6">
+								<h6>Askerlik Durumu</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<h6>Terhis Tarihi</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+						</div>
+						<p class="h6">Ehliyet Bilgileri</p>
+						<div class="row">
+
+							<div class="col-lg-6">
+								<h6>Ehliyet Sınıfı</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<h6>Ehliyetin Alındığı Tarih</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+						</div>
+						<p class="h6">Yabancı Dil Bilgileri</p>
+						<div class="row">
+
+							<div class="col-lg-4">
+								<h6>Yabancı Dil</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-4">
+								<h6>Derecesi</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-4">
+								<h6>Öğrenilen Yer</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+
+							<div class="col-lg-4">
+								<h6>Yabancı Dil</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-4">
+								<h6>Derecesi</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-4">
+								<h6>Öğrenilen Yer</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+						</div>
+						<p class="h6">İş Deneyimleri</p>
+						<div class="row">
+
+							<div class="col-lg-6">
+								<h6>Firma Adı</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<h6>Göreviniz</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-4">
+								<h6>Başlama Tarihi</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-4">
+								<h6>Ayrılma Tarihi</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-4">
+								<h6>Ayrılma Nedeni</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<h6>Firma Adı</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<h6>Göreviniz</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-4">
+								<h6>Başlama Tarihi</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-4">
+								<h6>Ayrılma Tarihi</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-4">
+								<h6>Ayrılma Nedeni</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+						</div>
+						<p class="h6">Başvuru Bilgileri</p>
+						<div class="row">
+
+							<div class="col-lg-6">
+								<h6>Başvurulan İş Pozisyonu</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<h6>Görev Almak İstediğiniz Birim</h6>
+								<div class="form_box mb-30">
+									<input type="text" name="Isim" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+
+							<div class="col-lg-12">
+								<h6>Eğitimler & Projeler</h6>
+								<div class="form_box mb-30">
+									<textarea name="Aciklama"
+											  id="message"
+											  cols="30"
+											  rows="10"
+											  placeholder="Mesajınız"></textarea>
+								</div>
+							</div>
+
+							<div class="col-lg-12">
+								<h6>Hakkınızda</h6>
+								<div class="form_box mb-30">
+									<textarea name="Aciklama"
+											  id="message"
+											  cols="30"
+											  rows="10"
+											  placeholder="Mesajınız"></textarea>
+								</div>
+								<div class="quote_btn text_center">
+									<button class="btn" type="submit"><b>Formu Gönder</b></button>
+								</div>
+							</div>
+						</div>
+					</form>
+					<div class="status"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

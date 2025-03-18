@@ -1,0 +1,13 @@
+﻿<!DOCTYPE html>
+<html lang="en-US">
+@await Html.PartialAsync("Components/_HeadPartial")
+<body>
+	@await Html.PartialAsync("Components/_HeaderPartial")
+	@await Html.PartialAsync("Components/_MenuPartial")
+	@await Html.PartialAsync("Components/_BreatcomePartial")
+	@RenderBody()
+@* 	@await Html.PartialAsync("_FooterPartial", "Company") *@
+	@await Html.PartialAsync("Components/_FooterPartial")
+	@await Html.PartialAsync("Components/_ScriptPartial")
+</body>
+</html>

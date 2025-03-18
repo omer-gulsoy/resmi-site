@@ -1,0 +1,1338 @@
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\ui-accordion.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\jquery.barfiller.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\pages-misc-under-maintenance.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\js\config.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\extensions\revolution.extension.video.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\index-11.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\index-2.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\favicon.ico
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\software.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\Version\index.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\bootstrap.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\auth-forgot-password-basic.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\landing-1.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\images\slider\shape-img-2.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\formHR\stajbasvurusu.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\index.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\vendor\css\theme-default.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\pages-account-settings-notifications.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\ui-offcanvas.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\index.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\case-study.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\index-10.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\vendor\js\helpers.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\index-rtl2.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\index-3.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\TweenLite.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\fonts\revicons\revicons90c690c6-2.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\contact-6.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\ui-modals.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\service.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\index-7.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\fonts\revicons\revicons90c690c6.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\css\owl.transitions.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\auth-login-basic.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\assets\gridtile_3x3.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\jquery.nivo.slider.pack.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\fonts\revicons\revicons90c690c6-4.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\layouts-container.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\js\ui-toasts.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\revulation-slider-2.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\extensions\revolution.extension.actions.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\vendor\css\core.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\landing-4.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\libs\apex-charts\apexcharts.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\it-service.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\fonts\Flaticon.svg
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\venobox\venobox.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\affiliate-intelligent.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\digital-seo.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\vendor\libs\apex-charts\apex-charts.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\js\menu.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\css\responsive.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\fonts\font-awesome\fonts\fontawesome-webfont3e6e3e6e.svg
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\contact-4.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\js\helpers.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\form-layouts-vertical.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\video.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\revulation-slider.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\ui-navbar.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\js\extended-ui-perfect-scrollbar.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\extended-ui-perfect-scrollbar.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\social-marketing.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\style.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\data-sharing.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\js\bootstrap.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\product-design.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\blog-element.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\jquery.counterup.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\CHANGELOG.md
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\about-2.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\particls.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\vendor\css\pages\page-icons.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\ui-toasts.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\css\owl.carousel.min.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\vendor\js\bootstrap.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\pages-misc-error.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\cards-basic.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\team.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\css\settings.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\libs\perfect-scrollbar\perfect-scrollbar.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\js\form-basic-inputs.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\team-element.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\scrollCue.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\ui-dropdowns.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\blog-left-sidebar.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\extensions\revolution.extension.navigation.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\interior-design.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\service-element.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\extensions\revolution.extension.carousel.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\contact-5.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\extended-ui-text-divider.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\extensions\revolution.extension.parallax.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\tasks\build.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\form-layouts-horizontal.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\package-lock.json
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\css\flaticon.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\jquery.meanmenu.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\tables-basic.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\js\dashboards-analytics.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\vendor\css\pages\page-auth.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\index.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\service2.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\machine-learning.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\css\scrollCue.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\documentation.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\landing-5.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\blog-list.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\digital-agency.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\contact.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\vendor\libs\perfect-scrollbar\perfect-scrollbar.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\css\rtl.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\industries.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\build-config.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\Popover requires tooltip.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\tasks\prod.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\webpack.config.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\vendor\modernizr-3.5.0.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\list.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\jquery.themepunch.revolution.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\index-rtl.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\gulpfile.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\LICENSE.md
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\wow.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\venobox\venobox.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\particle-01.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\css\meanmenu.min.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\extensions\revolution.extension.layeranimation.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\vendor\jquery-3.2.1.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\libs\jquery\jquery.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\index-4.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\.eslintrc.json
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\assets\gridtile_white.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\ui-typography.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\case-study-details.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\extensions\revolution.extension.slideanims.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\contact-3.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\faq.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\vendor\libs\perfect-scrollbar\perfect-scrollbar.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\landing-2.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\libs\popper\popper.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\README.md
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\fonts\font-awesome\css\font-awesome.min.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\css\owl.video.play.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\icons-boxicons.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\ui-collapse.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\js\ui-popover.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\js\ui-modals.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\index-14.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\vendor\libs\jquery\jquery.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\imagesloaded.pkgd.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\call-do-action-element.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\vendor\fonts\boxicons\boxicons.svg
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\layouts-without-menu.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\css\widget.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\vendor\css\pages\page-misc.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\.prettierrc.json
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\vendor\libs\apex-charts\apexcharts.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\ui-tabs-pills.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\jquery.themepunch.revolution.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\loader.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\css\openhand.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\pages-account-settings-account.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\service-4.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\case-study-element.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\ui-alerts.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\info-box-element.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\js\main.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\feature-element.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\vendor\libs\masonry\masonry.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\icon-boxs.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\vendor\libs\popper\popper.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\brand-element.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\assets\coloredbg.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\testimonial.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\ui-buttons.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\extensions\revolution.extension.migration.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\odoo-erp.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\vendor\libs\highlight\highlight.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\css\bootstrap.min.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\contact-2.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\business-solution.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\marketing-strategy.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\jquery.themepunch.revolution.min.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\index-13.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\extensions\revolution.extension.kenburn.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\portfolio.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\columns.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\service-3.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\jquery.themepunch.tools.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\forms-input-groups.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\index-17.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\img\favicon\favicon.ico
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\theme.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\owl.carousel.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\about-3.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\css\nivo-slider.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\vendor\css\pages\page-account-settings.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\ui-carousel.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\venobox\venobox.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\service-1.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\data-science.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\blog-gird.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\isotope.pkgd.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\portfolio-details.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\libs\highlight\highlight.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\service-2.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\about.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\service-details.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\ui-spinners.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\index-6.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\pages-account-settings-connections.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\image-box.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\index-9.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\vendor\fonts\boxicons.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\css\dark.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\ui-list-groups.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\css\theme-default.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\ui-badges.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\libs\masonry\masonry.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\formHR\isbasvurusu.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\managed-service.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\jquery\dist\jquery.slim.min.map
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\index-12.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\assets\gridtile.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\animated-text.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\ajax-mail.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\auth-register-basic.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\css\demo.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\css\site.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\vendor\libs\highlight\highlight.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\team-details.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\googl-map.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\blog-details.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\vendor\libs\highlight\highlight-github.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\ui-tooltips-popovers.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\accordion.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\jquery.scrollUp.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\package.json
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\ui-progress.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\layouts-blank.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\forms-basic-inputs.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\waypoints.min.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\why-choose-us.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\images\transparent.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\assets\gridtile_3x3_white.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\index-16.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\index-8.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\vendor\js\menu.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\home-dark.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\testimonial-element.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\ui-pagination-breadcrumbs.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\index-5.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\pricing-element.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\process-element.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\layouts-without-navbar.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\css\animate.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\themepunch.revolution.min.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\images\sld-shap.svg
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\index-18.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\pricing.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\layouts-fluid.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\counter-element.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\html\ui-footer.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\js\site.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\dividers.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\css\closedhand.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\index-15.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\blog-right-sidebar.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\404.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\transparent.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\fonts\revicons\revicons90c690c6-3.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\css\animated-text.css
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates(admin)\assets\js\pages-account-settings-account.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\product-selling.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\assets\js\jquery.nav.js
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\landing-3.html
+C:\Users\win11\Documents\Projeler\web - resmi site\web\wwwroot\templates\particle-02.html
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\formHR\isbasvurusu.html
+wwwroot\formHR\stajbasvurusu.html
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\qualityDocs\1.png
+wwwroot\qualityDocs\2.png
+wwwroot\qualityDocs\3.png
+wwwroot\qualityDocs\4.png
+wwwroot\qualityDocs\5.png
+wwwroot\qualityDocs\6.png
+wwwroot\templates(admin)\.browserslistrc
+wwwroot\templates(admin)\.eslintignore
+wwwroot\templates(admin)\.eslintrc.json
+wwwroot\templates(admin)\.gitignore
+wwwroot\templates(admin)\.prettierignore
+wwwroot\templates(admin)\.prettierrc.json
+wwwroot\templates(admin)\assets\css\demo.css
+wwwroot\templates(admin)\assets\img\backgrounds\18.jpg
+wwwroot\templates(admin)\assets\img\elements\1.jpg
+wwwroot\templates(admin)\assets\img\elements\11.jpg
+wwwroot\templates(admin)\assets\img\elements\12.jpg
+wwwroot\templates(admin)\assets\img\elements\13.jpg
+wwwroot\templates(admin)\assets\img\elements\17.jpg
+wwwroot\templates(admin)\assets\img\elements\18.jpg
+wwwroot\templates(admin)\assets\img\elements\19.jpg
+wwwroot\templates(admin)\assets\img\elements\2.jpg
+wwwroot\templates(admin)\assets\img\elements\20.jpg
+wwwroot\templates(admin)\assets\img\elements\3.jpg
+wwwroot\templates(admin)\assets\img\elements\4.jpg
+wwwroot\templates(admin)\assets\img\elements\5.jpg
+wwwroot\templates(admin)\assets\img\elements\7.jpg
+wwwroot\templates(admin)\assets\img\favicon\favicon.ico
+wwwroot\templates(admin)\assets\img\icons\brands\asana.png
+wwwroot\templates(admin)\assets\img\icons\brands\behance.png
+wwwroot\templates(admin)\assets\img\icons\brands\dribbble.png
+wwwroot\templates(admin)\assets\img\icons\brands\facebook.png
+wwwroot\templates(admin)\assets\img\icons\brands\github.png
+wwwroot\templates(admin)\assets\img\icons\brands\google.png
+wwwroot\templates(admin)\assets\img\icons\brands\instagram.png
+wwwroot\templates(admin)\assets\img\icons\brands\mailchimp.png
+wwwroot\templates(admin)\assets\img\icons\brands\slack.png
+wwwroot\templates(admin)\assets\img\icons\brands\twitter.png
+wwwroot\templates(admin)\assets\img\icons\unicons\cc-primary.png
+wwwroot\templates(admin)\assets\img\icons\unicons\cc-success.png
+wwwroot\templates(admin)\assets\img\icons\unicons\cc-warning.png
+wwwroot\templates(admin)\assets\img\icons\unicons\chart.png
+wwwroot\templates(admin)\assets\img\icons\unicons\chart-success.png
+wwwroot\templates(admin)\assets\img\icons\unicons\paypal.png
+wwwroot\templates(admin)\assets\img\icons\unicons\wallet.png
+wwwroot\templates(admin)\assets\img\icons\unicons\wallet-info.png
+wwwroot\templates(admin)\assets\img\illustrations\girl-doing-yoga-light.png
+wwwroot\templates(admin)\assets\img\illustrations\man-with-laptop-light.png
+wwwroot\templates(admin)\assets\img\illustrations\page-misc-error-light.png
+wwwroot\templates(admin)\assets\img\layouts\layout-container-light.png
+wwwroot\templates(admin)\assets\img\layouts\layout-fluid-light.png
+wwwroot\templates(admin)\assets\img\layouts\layout-without-menu-light.png
+wwwroot\templates(admin)\assets\img\layouts\layout-without-navbar-light.png
+wwwroot\templates(admin)\assets\js\config.js
+wwwroot\templates(admin)\assets\js\dashboards-analytics.js
+wwwroot\templates(admin)\assets\js\extended-ui-perfect-scrollbar.js
+wwwroot\templates(admin)\assets\js\form-basic-inputs.js
+wwwroot\templates(admin)\assets\js\main.js
+wwwroot\templates(admin)\assets\js\pages-account-settings-account.js
+wwwroot\templates(admin)\assets\js\ui-modals.js
+wwwroot\templates(admin)\assets\js\ui-popover.js
+wwwroot\templates(admin)\assets\js\ui-toasts.js
+wwwroot\templates(admin)\assets\vendor\css\core.css
+wwwroot\templates(admin)\assets\vendor\css\pages\page-account-settings.css
+wwwroot\templates(admin)\assets\vendor\css\pages\page-auth.css
+wwwroot\templates(admin)\assets\vendor\css\pages\page-icons.css
+wwwroot\templates(admin)\assets\vendor\css\pages\page-misc.css
+wwwroot\templates(admin)\assets\vendor\css\theme-default.css
+wwwroot\templates(admin)\assets\vendor\fonts\boxicons.css
+wwwroot\templates(admin)\assets\vendor\fonts\boxicons\boxicons.eot
+wwwroot\templates(admin)\assets\vendor\fonts\boxicons\boxicons.svg
+wwwroot\templates(admin)\assets\vendor\fonts\boxicons\boxicons.ttf
+wwwroot\templates(admin)\assets\vendor\fonts\boxicons\boxicons.woff
+wwwroot\templates(admin)\assets\vendor\fonts\boxicons\boxicons.woff2
+wwwroot\templates(admin)\assets\vendor\js\bootstrap.js
+wwwroot\templates(admin)\assets\vendor\js\helpers.js
+wwwroot\templates(admin)\assets\vendor\js\menu.js
+wwwroot\templates(admin)\assets\vendor\libs\apex-charts\apex-charts.css
+wwwroot\templates(admin)\assets\vendor\libs\apex-charts\apexcharts.js
+wwwroot\templates(admin)\assets\vendor\libs\highlight\highlight.css
+wwwroot\templates(admin)\assets\vendor\libs\highlight\highlight.js
+wwwroot\templates(admin)\assets\vendor\libs\highlight\highlight-github.css
+wwwroot\templates(admin)\assets\vendor\libs\jquery\jquery.js
+wwwroot\templates(admin)\assets\vendor\libs\masonry\masonry.js
+wwwroot\templates(admin)\assets\vendor\libs\perfect-scrollbar\perfect-scrollbar.css
+wwwroot\templates(admin)\assets\vendor\libs\perfect-scrollbar\perfect-scrollbar.js
+wwwroot\templates(admin)\assets\vendor\libs\popper\popper.js
+wwwroot\templates(admin)\build-config.js
+wwwroot\templates(admin)\CHANGELOG.md
+wwwroot\templates(admin)\documentation.html
+wwwroot\templates(admin)\fonts\boxicons.scss
+wwwroot\templates(admin)\gulpfile.js
+wwwroot\templates(admin)\html\auth-forgot-password-basic.html
+wwwroot\templates(admin)\html\auth-login-basic.html
+wwwroot\templates(admin)\html\auth-register-basic.html
+wwwroot\templates(admin)\html\cards-basic.html
+wwwroot\templates(admin)\html\extended-ui-perfect-scrollbar.html
+wwwroot\templates(admin)\html\extended-ui-text-divider.html
+wwwroot\templates(admin)\html\form-layouts-horizontal.html
+wwwroot\templates(admin)\html\form-layouts-vertical.html
+wwwroot\templates(admin)\html\forms-basic-inputs.html
+wwwroot\templates(admin)\html\forms-input-groups.html
+wwwroot\templates(admin)\html\icons-boxicons.html
+wwwroot\templates(admin)\html\index.html
+wwwroot\templates(admin)\html\layouts-blank.html
+wwwroot\templates(admin)\html\layouts-container.html
+wwwroot\templates(admin)\html\layouts-fluid.html
+wwwroot\templates(admin)\html\layouts-without-menu.html
+wwwroot\templates(admin)\html\layouts-without-navbar.html
+wwwroot\templates(admin)\html\pages-account-settings-account.html
+wwwroot\templates(admin)\html\pages-account-settings-connections.html
+wwwroot\templates(admin)\html\pages-account-settings-notifications.html
+wwwroot\templates(admin)\html\pages-misc-error.html
+wwwroot\templates(admin)\html\pages-misc-under-maintenance.html
+wwwroot\templates(admin)\html\tables-basic.html
+wwwroot\templates(admin)\html\ui-accordion.html
+wwwroot\templates(admin)\html\ui-alerts.html
+wwwroot\templates(admin)\html\ui-badges.html
+wwwroot\templates(admin)\html\ui-buttons.html
+wwwroot\templates(admin)\html\ui-carousel.html
+wwwroot\templates(admin)\html\ui-collapse.html
+wwwroot\templates(admin)\html\ui-dropdowns.html
+wwwroot\templates(admin)\html\ui-footer.html
+wwwroot\templates(admin)\html\ui-list-groups.html
+wwwroot\templates(admin)\html\ui-modals.html
+wwwroot\templates(admin)\html\ui-navbar.html
+wwwroot\templates(admin)\html\ui-offcanvas.html
+wwwroot\templates(admin)\html\ui-pagination-breadcrumbs.html
+wwwroot\templates(admin)\html\ui-progress.html
+wwwroot\templates(admin)\html\ui-spinners.html
+wwwroot\templates(admin)\html\ui-tabs-pills.html
+wwwroot\templates(admin)\html\ui-toasts.html
+wwwroot\templates(admin)\html\ui-tooltips-popovers.html
+wwwroot\templates(admin)\html\ui-typography.html
+wwwroot\templates(admin)\index.html
+wwwroot\templates(admin)\js\bootstrap.js
+wwwroot\templates(admin)\js\helpers.js
+wwwroot\templates(admin)\js\menu.js
+wwwroot\templates(admin)\LICENSE.md
+wwwroot\templates(admin)\libs\apex-charts\apexcharts.js
+wwwroot\templates(admin)\libs\apex-charts\apex-charts.scss
+wwwroot\templates(admin)\libs\highlight\highlight.js
+wwwroot\templates(admin)\libs\highlight\highlight.scss
+wwwroot\templates(admin)\libs\highlight\highlight-github.scss
+wwwroot\templates(admin)\libs\jquery\jquery.js
+wwwroot\templates(admin)\libs\masonry\masonry.js
+wwwroot\templates(admin)\libs\perfect-scrollbar\perfect-scrollbar.js
+wwwroot\templates(admin)\libs\perfect-scrollbar\perfect-scrollbar.scss
+wwwroot\templates(admin)\libs\popper\popper.js
+wwwroot\templates(admin)\package.json
+wwwroot\templates(admin)\package-lock.json
+wwwroot\templates(admin)\README.md
+wwwroot\templates(admin)\scss\_bootstrap.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_accordion.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_alert.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_badge.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_breadcrumb.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_button-group.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_buttons.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_card.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_carousel.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_close.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_dropdown.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_forms.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_functions.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_include.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_list-group.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_mixins.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_modal.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_nav.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_navbar.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_offcanvas.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_pagination.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_popover.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_progress.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_reboot.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_root.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_spinners.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_tables.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_toasts.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_tooltip.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_type.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_utilities.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_utilities-ltr.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\_variables.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\forms\_floating-labels.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\forms\_form-control.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\forms\_form-range.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\forms\_form-select.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\forms\_input-group.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\forms\_labels.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\forms\_validation.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\mixins\_alert.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\mixins\_badge.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\mixins\_buttons.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\mixins\_caret.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\mixins\_dropdown.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\mixins\_forms.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\mixins\_list-group.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\mixins\_misc.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\mixins\_navs.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\mixins\_pagination.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\mixins\_progress.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\mixins\_table-variants.scss
+wwwroot\templates(admin)\scss\_bootstrap-extended\mixins\_toasts.scss
+wwwroot\templates(admin)\scss\_colors.scss
+wwwroot\templates(admin)\scss\_components.scss
+wwwroot\templates(admin)\scss\_components\_app-brand.scss
+wwwroot\templates(admin)\scss\_components\_avatar.scss
+wwwroot\templates(admin)\scss\_components\_base.scss
+wwwroot\templates(admin)\scss\_components\_common.scss
+wwwroot\templates(admin)\scss\_components\_footer.scss
+wwwroot\templates(admin)\scss\_components\_include.scss
+wwwroot\templates(admin)\scss\_components\_layout.scss
+wwwroot\templates(admin)\scss\_components\_menu.scss
+wwwroot\templates(admin)\scss\_components\_mixins.scss
+wwwroot\templates(admin)\scss\_components\_text-divider.scss
+wwwroot\templates(admin)\scss\_components\_variables.scss
+wwwroot\templates(admin)\scss\_components\mixins\_app-brand.scss
+wwwroot\templates(admin)\scss\_components\mixins\_avatar.scss
+wwwroot\templates(admin)\scss\_components\mixins\_footer.scss
+wwwroot\templates(admin)\scss\_components\mixins\_menu.scss
+wwwroot\templates(admin)\scss\_components\mixins\_misc.scss
+wwwroot\templates(admin)\scss\_components\mixins\_navbar.scss
+wwwroot\templates(admin)\scss\_components\mixins\_text-divider.scss
+wwwroot\templates(admin)\scss\_custom-variables\_bootstrap-extended.scss
+wwwroot\templates(admin)\scss\_custom-variables\_components.scss
+wwwroot\templates(admin)\scss\_custom-variables\_libs.scss
+wwwroot\templates(admin)\scss\_custom-variables\_pages.scss
+wwwroot\templates(admin)\scss\_custom-variables\_support.scss
+wwwroot\templates(admin)\scss\_theme\_common.scss
+wwwroot\templates(admin)\scss\_theme\_theme.scss
+wwwroot\templates(admin)\scss\core.scss
+wwwroot\templates(admin)\scss\pages\page-account-settings.scss
+wwwroot\templates(admin)\scss\pages\page-auth.scss
+wwwroot\templates(admin)\scss\pages\page-icons.scss
+wwwroot\templates(admin)\scss\pages\page-misc.scss
+wwwroot\templates(admin)\scss\theme-default.scss
+wwwroot\templates(admin)\tasks\build.js
+wwwroot\templates(admin)\tasks\prod.js
+wwwroot\templates(admin)\webpack.config.js
+wwwroot\templates(admin)\yarn.lock
+wwwroot\templates\404.html
+wwwroot\templates\about.html
+wwwroot\templates\about-2.html
+wwwroot\templates\about-3.html
+wwwroot\templates\accordion.html
+wwwroot\templates\affiliate-intelligent.html
+wwwroot\templates\assets\assets\coloredbg.html
+wwwroot\templates\assets\assets\gridtile.html
+wwwroot\templates\assets\assets\gridtile_3x3.html
+wwwroot\templates\assets\assets\gridtile_3x3_white.html
+wwwroot\templates\assets\assets\gridtile_white.html
+wwwroot\templates\assets\css\animate.css
+wwwroot\templates\assets\css\animated-text.css
+wwwroot\templates\assets\css\bootstrap.min.css
+wwwroot\templates\assets\css\closedhand.html
+wwwroot\templates\assets\css\dark.css
+wwwroot\templates\assets\css\flaticon.css
+wwwroot\templates\assets\css\meanmenu.min.css
+wwwroot\templates\assets\css\nivo-slider.css
+wwwroot\templates\assets\css\openhand.html
+wwwroot\templates\assets\css\owl.carousel.min.css
+wwwroot\templates\assets\css\owl.transitions.css
+wwwroot\templates\assets\css\owl.video.play.html
+wwwroot\templates\assets\css\responsive.css
+wwwroot\templates\assets\css\rtl.css
+wwwroot\templates\assets\css\scrollCue.css
+wwwroot\templates\assets\css\settings.css
+wwwroot\templates\assets\css\theme-default.css
+wwwroot\templates\assets\css\widget.css
+wwwroot\templates\assets\fonts\Flaticon.eot
+wwwroot\templates\assets\fonts\Flaticon.svg
+wwwroot\templates\assets\fonts\Flaticon.ttf
+wwwroot\templates\assets\fonts\Flaticon.woff
+wwwroot\templates\assets\fonts\Flaticon.woff2
+wwwroot\templates\assets\fonts\Flaticond41dd41d.eot
+wwwroot\templates\assets\fonts\font-awesome\css\font-awesome.min.css
+wwwroot\templates\assets\fonts\font-awesome\fonts\fontawesome-webfont3e6e3e6e.eot
+wwwroot\templates\assets\fonts\font-awesome\fonts\fontawesome-webfont3e6e3e6e.svg
+wwwroot\templates\assets\fonts\font-awesome\fonts\fontawesome-webfont3e6e3e6e.ttf
+wwwroot\templates\assets\fonts\font-awesome\fonts\fontawesome-webfont3e6e3e6e.woff
+wwwroot\templates\assets\fonts\font-awesome\fonts\fontawesome-webfont3e6e3e6e.woff2
+wwwroot\templates\assets\fonts\font-awesome\fonts\fontawesome-webfontd41dd41d.eot
+wwwroot\templates\assets\fonts\revicons\revicons90c690c6.html
+wwwroot\templates\assets\fonts\revicons\revicons90c690c6-2.html
+wwwroot\templates\assets\fonts\revicons\revicons90c690c6-3.html
+wwwroot\templates\assets\fonts\revicons\revicons90c690c6-4.html
+wwwroot\templates\assets\images\1.png
+wwwroot\templates\assets\images\about.png
+wwwroot\templates\assets\images\about\about3.png
+wwwroot\templates\assets\images\about\about-bg.jpg
+wwwroot\templates\assets\images\about\peolpe.png
+wwwroot\templates\assets\images\about1.jpg
+wwwroot\templates\assets\images\about-2.jpg
+wwwroot\templates\assets\images\about2.png
+wwwroot\templates\assets\images\about-3.jpg
+wwwroot\templates\assets\images\about-4.png
+wwwroot\templates\assets\images\about6.jpg
+wwwroot\templates\assets\images\about-bg.png
+wwwroot\templates\assets\images\about-bg2.png
+wwwroot\templates\assets\images\about-circle.png
+wwwroot\templates\assets\images\about-dark.png
+wwwroot\templates\assets\images\about-img.png
+wwwroot\templates\assets\images\about-img2.png
+wwwroot\templates\assets\images\about-main.png
+wwwroot\templates\assets\images\about-main2.png
+wwwroot\templates\assets\images\about-peple.png
+wwwroot\templates\assets\images\about-seo.png
+wwwroot\templates\assets\images\about-sp.png
+wwwroot\templates\assets\images\about-sp1.png
+wwwroot\templates\assets\images\about-sp2.png
+wwwroot\templates\assets\images\about-video-img2.png
+wwwroot\templates\assets\images\ball.png
+wwwroot\templates\assets\images\ball1.png
+wwwroot\templates\assets\images\bars.png
+wwwroot\templates\assets\images\bg-cnt.jpg
+wwwroot\templates\assets\images\bg-feature.png
+wwwroot\templates\assets\images\blg-dtl-sd.jpg
+wwwroot\templates\assets\images\blog1.jpg
+wwwroot\templates\assets\images\blog-1.jpg
+wwwroot\templates\assets\images\blog1.png
+wwwroot\templates\assets\images\blog-1.png
+wwwroot\templates\assets\images\blog2.jpg
+wwwroot\templates\assets\images\blog-2.jpg
+wwwroot\templates\assets\images\blog2.png
+wwwroot\templates\assets\images\blog-2.png
+wwwroot\templates\assets\images\blog3.jpg
+wwwroot\templates\assets\images\blog-3.jpg
+wwwroot\templates\assets\images\blog3.png
+wwwroot\templates\assets\images\blog4.jpg
+wwwroot\templates\assets\images\blog-4.jpg
+wwwroot\templates\assets\images\blog-5.jpg
+wwwroot\templates\assets\images\blog-6.jpg
+wwwroot\templates\assets\images\border-f.png
+wwwroot\templates\assets\images\box-2.png
+wwwroot\templates\assets\images\box-bg.png
+wwwroot\templates\assets\images\box-bg2.png
+wwwroot\templates\assets\images\brand\1.png
+wwwroot\templates\assets\images\brand\2.png
+wwwroot\templates\assets\images\brand\3.png
+wwwroot\templates\assets\images\brand\4.png
+wwwroot\templates\assets\images\brand\5.png
+wwwroot\templates\assets\images\brand\brand-1.png
+wwwroot\templates\assets\images\brand\brand-2.png
+wwwroot\templates\assets\images\brand\brand-3.png
+wwwroot\templates\assets\images\brand\brand-4.png
+wwwroot\templates\assets\images\brand\m1.png
+wwwroot\templates\assets\images\brand\m2.png
+wwwroot\templates\assets\images\brand\m3.png
+wwwroot\templates\assets\images\brand\m4.png
+wwwroot\templates\assets\images\brand\m5.png
+wwwroot\templates\assets\images\brand\m6.png
+wwwroot\templates\assets\images\brand\m7.png
+wwwroot\templates\assets\images\brand\m8.png
+wwwroot\templates\assets\images\brand\m9.png
+wwwroot\templates\assets\images\brand1.png
+wwwroot\templates\assets\images\brand2.png
+wwwroot\templates\assets\images\brand3.png
+wwwroot\templates\assets\images\brand4.png
+wwwroot\templates\assets\images\brand5.png
+wwwroot\templates\assets\images\brd-circle.png
+wwwroot\templates\assets\images\brnd1.png
+wwwroot\templates\assets\images\brnd2.png
+wwwroot\templates\assets\images\brnd3.png
+wwwroot\templates\assets\images\brnd4.png
+wwwroot\templates\assets\images\brnd5.png
+wwwroot\templates\assets\images\call-bg.jpg
+wwwroot\templates\assets\images\call-bg.png
+wwwroot\templates\assets\images\call-do-bg.png
+wwwroot\templates\assets\images\call-do-bg1.png
+wwwroot\templates\assets\images\call-do-main.png
+wwwroot\templates\assets\images\case1.jpg
+wwwroot\templates\assets\images\certificate.jpg
+wwwroot\templates\assets\images\choose.png
+wwwroot\templates\assets\images\choose1.png
+wwwroot\templates\assets\images\choose-1.png
+wwwroot\templates\assets\images\choose3.png
+wwwroot\templates\assets\images\choose-main.png
+wwwroot\templates\assets\images\choose-shape1.png
+wwwroot\templates\assets\images\choose-sp.png
+wwwroot\templates\assets\images\choose-sp2.png
+wwwroot\templates\assets\images\choose-us-bg.png
+wwwroot\templates\assets\images\circle.png
+wwwroot\templates\assets\images\circle1.png
+wwwroot\templates\assets\images\circle2.png
+wwwroot\templates\assets\images\circle-small.png
+wwwroot\templates\assets\images\cn-bg.jpg
+wwwroot\templates\assets\images\contact.png
+wwwroot\templates\assets\images\contact2.png
+wwwroot\templates\assets\images\contact-circle.png
+wwwroot\templates\assets\images\cot.jpg
+wwwroot\templates\assets\images\counter-bg.png
+wwwroot\templates\assets\images\date.png
+wwwroot\templates\assets\images\diamond.png
+wwwroot\templates\assets\images\diamond2.png
+wwwroot\templates\assets\images\direction-sign.png
+wwwroot\templates\assets\images\dot.png
+wwwroot\templates\assets\images\ellipse1.png
+wwwroot\templates\assets\images\ellipse2.png
+wwwroot\templates\assets\images\em.png
+wwwroot\templates\assets\images\em1.png
+wwwroot\templates\assets\images\em2.png
+wwwroot\templates\assets\images\em-about.png
+wwwroot\templates\assets\images\em-shape.png
+wwwroot\templates\assets\images\ex.png
+wwwroot\templates\assets\images\faq1.png
+wwwroot\templates\assets\images\faq-1.png
+wwwroot\templates\assets\images\fav-icon\_icon.png
+wwwroot\templates\assets\images\fav-icon\icon.png
+wwwroot\templates\assets\images\feature1.jpg
+wwwroot\templates\assets\images\feature1.png
+wwwroot\templates\assets\images\feature2.jpg
+wwwroot\templates\assets\images\feature2.png
+wwwroot\templates\assets\images\feature3.jpg
+wwwroot\templates\assets\images\feature-bg2.jpg
+wwwroot\templates\assets\images\feature-shape-2.png
+wwwroot\templates\assets\images\figma.png
+wwwroot\templates\assets\images\footer-bg1.png
+wwwroot\templates\assets\images\footer-bg-techno.png
+wwwroot\templates\assets\images\footer-blog-1.png
+wwwroot\templates\assets\images\footer-blog-2.png
+wwwroot\templates\assets\images\footer-blog-3.png
+wwwroot\templates\assets\images\footer-blog-4.png
+wwwroot\templates\assets\images\galery\1.jpg
+wwwroot\templates\assets\images\galery\2.jpg
+wwwroot\templates\assets\images\galery\3.jpg
+wwwroot\templates\assets\images\galery\4.jpg
+wwwroot\templates\assets\images\galery\5.jpg
+wwwroot\templates\assets\images\galery\6.jpg
+wwwroot\templates\assets\images\galery\7.jpg
+wwwroot\templates\assets\images\galery\8.jpg
+wwwroot\templates\assets\images\galery\wh1.jpg
+wwwroot\templates\assets\images\galery\wh2.jpg
+wwwroot\templates\assets\images\galery\wh3.jpg
+wwwroot\templates\assets\images\glob-bg.png
+wwwroot\templates\assets\images\google.png
+wwwroot\templates\assets\images\icon.png
+wwwroot\templates\assets\images\icon\icon1.png
+wwwroot\templates\assets\images\icon\icon2.png
+wwwroot\templates\assets\images\icon\icon3.png
+wwwroot\templates\assets\images\icon\icon4.png
+wwwroot\templates\assets\images\icon\icon5.png
+wwwroot\templates\assets\images\icon\icon6.png
+wwwroot\templates\assets\images\icon\icon7.png
+wwwroot\templates\assets\images\icon\icon8.png
+wwwroot\templates\assets\images\icon\icon9.png
+wwwroot\templates\assets\images\icon1.png
+wwwroot\templates\assets\images\icon-1.png
+wwwroot\templates\assets\images\icon2.png
+wwwroot\templates\assets\images\icon-2.png
+wwwroot\templates\assets\images\icon-2-1.png
+wwwroot\templates\assets\images\icon-2-2.png
+wwwroot\templates\assets\images\icon-2-3.png
+wwwroot\templates\assets\images\icon-2-4.png
+wwwroot\templates\assets\images\icon-3.png
+wwwroot\templates\assets\images\icon-4.png
+wwwroot\templates\assets\images\img2.png
+wwwroot\templates\assets\images\img3.png
+wwwroot\templates\assets\images\it-work.jpg
+wwwroot\templates\assets\images\logo.png
+wwwroot\templates\assets\images\logo2.png
+wwwroot\templates\assets\images\man.png
+wwwroot\templates\assets\images\messege.png
+wwwroot\templates\assets\images\mission-bg.jpg
+wwwroot\templates\assets\images\mission-vission-bg.jpg
+wwwroot\templates\assets\images\money.png
+wwwroot\templates\assets\images\new\ab3.png
+wwwroot\templates\assets\images\new\about01.png
+wwwroot\templates\assets\images\new\abs-bg7.png
+wwwroot\templates\assets\images\new\ap.jpg
+wwwroot\templates\assets\images\new\blogbg.png
+wwwroot\templates\assets\images\new\case1.jpg
+wwwroot\templates\assets\images\new\case2.jpg
+wwwroot\templates\assets\images\new\case3.jpg
+wwwroot\templates\assets\images\new\case4.jpg
+wwwroot\templates\assets\images\new\cnt-bg.jpg
+wwwroot\templates\assets\images\new\contact-here.png
+wwwroot\templates\assets\images\new\dark-bg.jpg
+wwwroot\templates\assets\images\new\data-about.png
+wwwroot\templates\assets\images\new\footer-bgdt.png
+wwwroot\templates\assets\images\new\fun1.jpg
+wwwroot\templates\assets\images\new\new-about.jpg
+wwwroot\templates\assets\images\new\pr1.png
+wwwroot\templates\assets\images\new\pr2.png
+wwwroot\templates\assets\images\new\pr3.png
+wwwroot\templates\assets\images\new\pr-bg.png
+wwwroot\templates\assets\images\new\pr-bg2.png
+wwwroot\templates\assets\images\new\pricing-bg1.png
+wwwroot\templates\assets\images\new\pricing-icon.png
+wwwroot\templates\assets\images\new\service01.jpg
+wwwroot\templates\assets\images\new\service02.jpg
+wwwroot\templates\assets\images\new\service03.jpg
+wwwroot\templates\assets\images\new\team1.jpg
+wwwroot\templates\assets\images\new\team2.jpg
+wwwroot\templates\assets\images\new\team3.jpg
+wwwroot\templates\assets\images\new\testi-bg.jpg
+wwwroot\templates\assets\images\new\wt1.jpg
+wwwroot\templates\assets\images\new\wt2.jpg
+wwwroot\templates\assets\images\new\wt3.jpg
+wwwroot\templates\assets\images\new\wt4.jpg
+wwwroot\templates\assets\images\odoo.jpg
+wwwroot\templates\assets\images\odoo.png
+wwwroot\templates\assets\images\odoo2.jpg
+wwwroot\templates\assets\images\people.png
+wwwroot\templates\assets\images\people2.png
+wwwroot\templates\assets\images\portfolio\code.png
+wwwroot\templates\assets\images\portfolio\code1.png
+wwwroot\templates\assets\images\portfolio\p1.jpg
+wwwroot\templates\assets\images\portfolio\p2.jpg
+wwwroot\templates\assets\images\portfolio\p3.jpg
+wwwroot\templates\assets\images\portfolio\p4.jpg
+wwwroot\templates\assets\images\portfolio\p5.jpg
+wwwroot\templates\assets\images\portfolio\p6.jpg
+wwwroot\templates\assets\images\portfolio\port1.png
+wwwroot\templates\assets\images\portfolio\port2.png
+wwwroot\templates\assets\images\portfolio\port3.png
+wwwroot\templates\assets\images\portfolio\port4.png
+wwwroot\templates\assets\images\portfolio\port5.png
+wwwroot\templates\assets\images\portfolio\port6.png
+wwwroot\templates\assets\images\portfolio\pr1.jpg
+wwwroot\templates\assets\images\portfolio\pr2.jpg
+wwwroot\templates\assets\images\portfolio\pr3.jpg
+wwwroot\templates\assets\images\portfolio\pr4.jpg
+wwwroot\templates\assets\images\portfolio\pr5.png
+wwwroot\templates\assets\images\portfolio\ptf1.png
+wwwroot\templates\assets\images\portfolio\ptf2.png
+wwwroot\templates\assets\images\portfolio\ptf3.png
+wwwroot\templates\assets\images\portfolio\ptf4.png
+wwwroot\templates\assets\images\portfolio\ptf5.png
+wwwroot\templates\assets\images\portfolio\ptf6.png
+wwwroot\templates\assets\images\portfolio\tab1.jpg
+wwwroot\templates\assets\images\portfolio\tab2.jpg
+wwwroot\templates\assets\images\portfolio\tab3.jpg
+wwwroot\templates\assets\images\portfolio-1.png
+wwwroot\templates\assets\images\portfolio-2.png
+wwwroot\templates\assets\images\portfolio-3.png
+wwwroot\templates\assets\images\portfolio-4.png
+wwwroot\templates\assets\images\portfolio-5.png
+wwwroot\templates\assets\images\proces1.png
+wwwroot\templates\assets\images\proces2.png
+wwwroot\templates\assets\images\proces3.png
+wwwroot\templates\assets\images\proces4.png
+wwwroot\templates\assets\images\process1.jpg
+wwwroot\templates\assets\images\process2.jpg
+wwwroot\templates\assets\images\process3.jpg
+wwwroot\templates\assets\images\process4.jpg
+wwwroot\templates\assets\images\process-bg1.png
+wwwroot\templates\assets\images\process-bg2.png
+wwwroot\templates\assets\images\process-border.png
+wwwroot\templates\assets\images\process-circle.png
+wwwroot\templates\assets\images\proces-shape.png
+wwwroot\templates\assets\images\process-shape.png
+wwwroot\templates\assets\images\recent1.jpg
+wwwroot\templates\assets\images\recent2.jpg
+wwwroot\templates\assets\images\recent3.jpg
+wwwroot\templates\assets\images\recent4.jpg
+wwwroot\templates\assets\images\recent5.jpg
+wwwroot\templates\assets\images\recent6.jpg
+wwwroot\templates\assets\images\redit.png
+wwwroot\templates\assets\images\ring.png
+wwwroot\templates\assets\images\roket.png
+wwwroot\templates\assets\images\sdt.png
+wwwroot\templates\assets\images\search.png
+wwwroot\templates\assets\images\seo.png
+wwwroot\templates\assets\images\ser1.png
+wwwroot\templates\assets\images\servce1.png
+wwwroot\templates\assets\images\servc-thumb.png
+wwwroot\templates\assets\images\servic1.png
+wwwroot\templates\assets\images\servic2.png
+wwwroot\templates\assets\images\servic3.png
+wwwroot\templates\assets\images\servic4.png
+wwwroot\templates\assets\images\servic5.png
+wwwroot\templates\assets\images\servic6.png
+wwwroot\templates\assets\images\service1.png
+wwwroot\templates\assets\images\service2.png
+wwwroot\templates\assets\images\service-bg.png
+wwwroot\templates\assets\images\service-bg2.png
+wwwroot\templates\assets\images\service-bg3.png
+wwwroot\templates\assets\images\service-rot.png
+wwwroot\templates\assets\images\service-sp.png
+wwwroot\templates\assets\images\shap-1.png
+wwwroot\templates\assets\images\shape\1.png
+wwwroot\templates\assets\images\shape\2.png
+wwwroot\templates\assets\images\shape\3.png
+wwwroot\templates\assets\images\shape\4.png
+wwwroot\templates\assets\images\shape\5.png
+wwwroot\templates\assets\images\shape\ab1.png
+wwwroot\templates\assets\images\shape\af1.png
+wwwroot\templates\assets\images\shape\af2.png
+wwwroot\templates\assets\images\shape\af3.png
+wwwroot\templates\assets\images\shape\af5.png
+wwwroot\templates\assets\images\shape\arrow.png
+wwwroot\templates\assets\images\shape\arrow-long.png
+wwwroot\templates\assets\images\shape\bnr.png
+wwwroot\templates\assets\images\shape\circle-img.png
+wwwroot\templates\assets\images\shape\cn-shape.png
+wwwroot\templates\assets\images\shape\diamond.png
+wwwroot\templates\assets\images\shape\envelope.png
+wwwroot\templates\assets\images\shape\main-img.png
+wwwroot\templates\assets\images\shape\mc1.png
+wwwroot\templates\assets\images\shape\mc10.png
+wwwroot\templates\assets\images\shape\mc11.png
+wwwroot\templates\assets\images\shape\mc2.png
+wwwroot\templates\assets\images\shape\mc3.png
+wwwroot\templates\assets\images\shape\mc4.png
+wwwroot\templates\assets\images\shape\mc5.png
+wwwroot\templates\assets\images\shape\mc6.png
+wwwroot\templates\assets\images\shape\mc7.png
+wwwroot\templates\assets\images\shape\mc8.png
+wwwroot\templates\assets\images\shape\mc9.png
+wwwroot\templates\assets\images\shape\men1.png
+wwwroot\templates\assets\images\shape\men2.png
+wwwroot\templates\assets\images\shape\message.png
+wwwroot\templates\assets\images\shape\plus.png
+wwwroot\templates\assets\images\shape\rt1.png
+wwwroot\templates\assets\images\shape\rt2.png
+wwwroot\templates\assets\images\shape\shape-seo1.png
+wwwroot\templates\assets\images\shape\shape-seo2.png
+wwwroot\templates\assets\images\shape\shape-seo3.png
+wwwroot\templates\assets\images\shape\shape-seo4.png
+wwwroot\templates\assets\images\shape\techno-seo1.png
+wwwroot\templates\assets\images\shape\text1.png
+wwwroot\templates\assets\images\shape\text2.png
+wwwroot\templates\assets\images\shape\text3.png
+wwwroot\templates\assets\images\shape\tick-icon.png
+wwwroot\templates\assets\images\shape\user-plus.png
+wwwroot\templates\assets\images\shape\wk1.png
+wwwroot\templates\assets\images\shape\wk2.png
+wwwroot\templates\assets\images\shape1.png
+wwwroot\templates\assets\images\shape2.png
+wwwroot\templates\assets\images\shape3.png
+wwwroot\templates\assets\images\shape-ab.png
+wwwroot\templates\assets\images\sket.png
+wwwroot\templates\assets\images\skill-dark.jpg
+wwwroot\templates\assets\images\sld-shap.svg
+wwwroot\templates\assets\images\slider\banner1.jpg
+wwwroot\templates\assets\images\slider\bg.jpg
+wwwroot\templates\assets\images\slider\bg2.jpg
+wwwroot\templates\assets\images\slider\box.png
+wwwroot\templates\assets\images\slider\call.png
+wwwroot\templates\assets\images\slider\circle2.png
+wwwroot\templates\assets\images\slider\dark1.jpg
+wwwroot\templates\assets\images\slider\dark2.jpg
+wwwroot\templates\assets\images\slider\hero.png
+wwwroot\templates\assets\images\slider\hero-bg.jpg
+wwwroot\templates\assets\images\slider\hero-bg.png
+wwwroot\templates\assets\images\slider\hero-bg1.png
+wwwroot\templates\assets\images\slider\hero-bg2.jpg
+wwwroot\templates\assets\images\slider\hero-img.png
+wwwroot\templates\assets\images\slider\icon.png
+wwwroot\templates\assets\images\slider\img-left-shape.png
+wwwroot\templates\assets\images\slider\img-right-shape.png
+wwwroot\templates\assets\images\slider\innsurance.png
+wwwroot\templates\assets\images\slider\innsurance-bg.jpg
+wwwroot\templates\assets\images\slider\line.png
+wwwroot\templates\assets\images\slider\main-img.png
+wwwroot\templates\assets\images\slider\nivo-slider-1.jpg
+wwwroot\templates\assets\images\slider\nivo-slider-2.jpg
+wwwroot\templates\assets\images\slider\roket.png
+wwwroot\templates\assets\images\slider\round.png
+wwwroot\templates\assets\images\slider\rs-slider1.jpg
+wwwroot\templates\assets\images\slider\seo-bg.jpg
+wwwroot\templates\assets\images\slider\shape-1.png
+wwwroot\templates\assets\images\slider\shape-2.png
+wwwroot\templates\assets\images\slider\shape-img-1.png
+wwwroot\templates\assets\images\slider\shape-img-2.html
+wwwroot\templates\assets\images\slider\slider-1.png
+wwwroot\templates\assets\images\slider\slider-10.jpg
+wwwroot\templates\assets\images\slider\slider-11.jpg
+wwwroot\templates\assets\images\slider\slider-12.jpg
+wwwroot\templates\assets\images\slider\slider13.jpg
+wwwroot\templates\assets\images\slider\slider14.jpg
+wwwroot\templates\assets\images\slider\slider-2.png
+wwwroot\templates\assets\images\slider\slider-3.png
+wwwroot\templates\assets\images\slider\slider-4.jpg
+wwwroot\templates\assets\images\slider\slider-5.jpg
+wwwroot\templates\assets\images\slider\slider-6.jpg
+wwwroot\templates\assets\images\slider\slider-7.jpg
+wwwroot\templates\assets\images\slider\slider-8.jpg
+wwwroot\templates\assets\images\slider\slider-9.png
+wwwroot\templates\assets\images\slider\software-dark-hero-bg.jpg
+wwwroot\templates\assets\images\slider\software-hero-bg.png
+wwwroot\templates\assets\images\slider\software-hero-img.png
+wwwroot\templates\assets\images\slider\techno-seo.png
+wwwroot\templates\assets\images\slider\techno-seo1.png
+wwwroot\templates\assets\images\slider\video.png
+wwwroot\templates\assets\images\software-about-img.png
+wwwroot\templates\assets\images\software-abt-bg.png
+wwwroot\templates\assets\images\software-blg.jpg
+wwwroot\templates\assets\images\software-blg2.jpg
+wwwroot\templates\assets\images\software-blg3.jpg
+wwwroot\templates\assets\images\software-blg4.jpg
+wwwroot\templates\assets\images\software-blg5.jpg
+wwwroot\templates\assets\images\software-dark-port-bg.png
+wwwroot\templates\assets\images\software-dark-testi-bg.png
+wwwroot\templates\assets\images\software-dark-work-bg.png
+wwwroot\templates\assets\images\software-footer-bg.png
+wwwroot\templates\assets\images\software-prt-bg.png
+wwwroot\templates\assets\images\software-service-bg.png
+wwwroot\templates\assets\images\software-service-bg-dark.png
+wwwroot\templates\assets\images\software-service-img02.png
+wwwroot\templates\assets\images\software-service-img03.png
+wwwroot\templates\assets\images\software-service-img1-1.png
+wwwroot\templates\assets\images\software-team-img1.png
+wwwroot\templates\assets\images\software-team-img2.png
+wwwroot\templates\assets\images\software-team-img3.png
+wwwroot\templates\assets\images\software-team-img4.png
+wwwroot\templates\assets\images\software-work-bg.png
+wwwroot\templates\assets\images\software-work-icon1.png
+wwwroot\templates\assets\images\software-work-icon2.png
+wwwroot\templates\assets\images\software-work-icon3.png
+wwwroot\templates\assets\images\software-work-icon4.png
+wwwroot\templates\assets\images\software-work-line.png
+wwwroot\templates\assets\images\subcrib-bg.png
+wwwroot\templates\assets\images\subscribe.jpg
+wwwroot\templates\assets\images\t2.png
+wwwroot\templates\assets\images\tab.png
+wwwroot\templates\assets\images\tab1.jpg
+wwwroot\templates\assets\images\target.png
+wwwroot\templates\assets\images\team.png
+wwwroot\templates\assets\images\team1.jpg
+wwwroot\templates\assets\images\team-1.png
+wwwroot\templates\assets\images\team2.jpg
+wwwroot\templates\assets\images\team2.png
+wwwroot\templates\assets\images\team-2.png
+wwwroot\templates\assets\images\team3.jpg
+wwwroot\templates\assets\images\team3.png
+wwwroot\templates\assets\images\team-3.png
+wwwroot\templates\assets\images\team4.jpg
+wwwroot\templates\assets\images\team4.png
+wwwroot\templates\assets\images\team-4.png
+wwwroot\templates\assets\images\team5.jpg
+wwwroot\templates\assets\images\team6.jpg
+wwwroot\templates\assets\images\team7.jpg
+wwwroot\templates\assets\images\team8.jpg
+wwwroot\templates\assets\images\team-bg.png
+wwwroot\templates\assets\images\team-bg2.jpg
+wwwroot\templates\assets\images\team-bg-dark.jpg
+wwwroot\templates\assets\images\team-pages.png
+wwwroot\templates\assets\images\techno-seo.jpg
+wwwroot\templates\assets\images\techno-seo-1.jpg
+wwwroot\templates\assets\images\techno-seo-2.jpg
+wwwroot\templates\assets\images\techno-seo-3.jpg
+wwwroot\templates\assets\images\techno-seo4.png
+wwwroot\templates\assets\images\testi.png
+wwwroot\templates\assets\images\testi\1.jpg
+wwwroot\templates\assets\images\testi\10.jpg
+wwwroot\templates\assets\images\testi\11.jpg
+wwwroot\templates\assets\images\testi\12.jpg
+wwwroot\templates\assets\images\testi\13.jpg
+wwwroot\templates\assets\images\testi\14.jpg
+wwwroot\templates\assets\images\testi\2.jpg
+wwwroot\templates\assets\images\testi\3.jpg
+wwwroot\templates\assets\images\testi\4.jpg
+wwwroot\templates\assets\images\testi\5.jpg
+wwwroot\templates\assets\images\testi\6.jpg
+wwwroot\templates\assets\images\testi\7.jpg
+wwwroot\templates\assets\images\testi\8.jpg
+wwwroot\templates\assets\images\testi\9.jpg
+wwwroot\templates\assets\images\testi\people.png
+wwwroot\templates\assets\images\testi\people2.png
+wwwroot\templates\assets\images\testi\people3.png
+wwwroot\templates\assets\images\testi\software-testi-img1.png
+wwwroot\templates\assets\images\testi\software-testi-img2.png
+wwwroot\templates\assets\images\testi\software-testi-img3.png
+wwwroot\templates\assets\images\testi\t1.jpg
+wwwroot\templates\assets\images\testi\t2.jpg
+wwwroot\templates\assets\images\testi\test1.png
+wwwroot\templates\assets\images\testi\testi-1.png
+wwwroot\templates\assets\images\testi\testi-2.png
+wwwroot\templates\assets\images\testi\testi-bg1.png
+wwwroot\templates\assets\images\testi\testi-bg-1.png
+wwwroot\templates\assets\images\testi\testi-bx-bg.png
+wwwroot\templates\assets\images\testi\testi-bx-bg2.png
+wwwroot\templates\assets\images\testi\testi-bx-bg3.png
+wwwroot\templates\assets\images\testi\testi-bx-bg4.png
+wwwroot\templates\assets\images\testi\testi-sp.png
+wwwroot\templates\assets\images\testi1.jpg
+wwwroot\templates\assets\images\testi1.png
+wwwroot\templates\assets\images\testi2.jpg
+wwwroot\templates\assets\images\testi2.png
+wwwroot\templates\assets\images\testi-2.png
+wwwroot\templates\assets\images\testi3.jpg
+wwwroot\templates\assets\images\testi3.png
+wwwroot\templates\assets\images\testi-bg.png
+wwwroot\templates\assets\images\testi-img.png
+wwwroot\templates\assets\images\testimonial-bg.jpg
+wwwroot\templates\assets\images\trtek.png
+wwwroot\templates\assets\images\trtek-bg.png
+wwwroot\templates\assets\images\trtek-bg2.png
+wwwroot\templates\assets\images\vedio-seo-.png
+wwwroot\templates\assets\images\video1.jpg
+wwwroot\templates\assets\images\vp1.jpg
+wwwroot\templates\assets\images\vp2.jpg
+wwwroot\templates\assets\images\vp3.jpg
+wwwroot\templates\assets\images\vp4.jpg
+wwwroot\templates\assets\js\ajax-mail.js
+wwwroot\templates\assets\js\animated-text.js
+wwwroot\templates\assets\js\bootstrap.min.js
+wwwroot\templates\assets\js\extensions\revolution.extension.actions.min.js
+wwwroot\templates\assets\js\extensions\revolution.extension.carousel.min.js
+wwwroot\templates\assets\js\extensions\revolution.extension.kenburn.min.js
+wwwroot\templates\assets\js\extensions\revolution.extension.layeranimation.min.js
+wwwroot\templates\assets\js\extensions\revolution.extension.migration.min.js
+wwwroot\templates\assets\js\extensions\revolution.extension.navigation.min.js
+wwwroot\templates\assets\js\extensions\revolution.extension.parallax.min.js
+wwwroot\templates\assets\js\extensions\revolution.extension.slideanims.min.js
+wwwroot\templates\assets\js\extensions\revolution.extension.video.min.js
+wwwroot\templates\assets\js\imagesloaded.pkgd.min.js
+wwwroot\templates\assets\js\isotope.pkgd.min.js
+wwwroot\templates\assets\js\jquery.barfiller.js
+wwwroot\templates\assets\js\jquery.counterup.min.js
+wwwroot\templates\assets\js\jquery.meanmenu.js
+wwwroot\templates\assets\js\jquery.nav.js
+wwwroot\templates\assets\js\jquery.nivo.slider.pack.js
+wwwroot\templates\assets\js\jquery.scrollUp.js
+wwwroot\templates\assets\js\jquery.themepunch.revolution.min.js
+wwwroot\templates\assets\js\jquery.themepunch.tools.min.js
+wwwroot\templates\assets\js\owl.carousel.min.js
+wwwroot\templates\assets\js\particls.js
+wwwroot\templates\assets\js\scrollCue.min.js
+wwwroot\templates\assets\js\testimonial.js
+wwwroot\templates\assets\js\theme.js
+wwwroot\templates\assets\js\vendor\jquery-3.2.1.min.js
+wwwroot\templates\assets\js\vendor\modernizr-3.5.0.min.js
+wwwroot\templates\assets\js\waypoints.min.js
+wwwroot\templates\assets\js\wow.js
+wwwroot\templates\assets\loader.html
+wwwroot\templates\assets\transparent.html
+wwwroot\templates\blog-details.html
+wwwroot\templates\blog-element.html
+wwwroot\templates\blog-gird.html
+wwwroot\templates\blog-left-sidebar.html
+wwwroot\templates\blog-list.html
+wwwroot\templates\blog-right-sidebar.html
+wwwroot\templates\brand-element.html
+wwwroot\templates\business-solution.html
+wwwroot\templates\call-do-action-element.html
+wwwroot\templates\case-study.html
+wwwroot\templates\case-study-details.html
+wwwroot\templates\case-study-element.html
+wwwroot\templates\columns.html
+wwwroot\templates\contact.html
+wwwroot\templates\contact-2.html
+wwwroot\templates\contact-3.html
+wwwroot\templates\contact-4.html
+wwwroot\templates\contact-5.html
+wwwroot\templates\contact-6.html
+wwwroot\templates\counter-element.html
+wwwroot\templates\data-science.html
+wwwroot\templates\data-sharing.html
+wwwroot\templates\digital-agency.html
+wwwroot\templates\digital-seo.html
+wwwroot\templates\dividers.html
+wwwroot\templates\faq.html
+wwwroot\templates\feature-element.html
+wwwroot\templates\googl-map.html
+wwwroot\templates\home-dark.html
+wwwroot\templates\icon-boxs.html
+wwwroot\templates\image-box.html
+wwwroot\templates\images\transparent.html
+wwwroot\templates\index.html
+wwwroot\templates\index-10.html
+wwwroot\templates\index-11.html
+wwwroot\templates\index-12.html
+wwwroot\templates\index-13.html
+wwwroot\templates\index-14.html
+wwwroot\templates\index-15.html
+wwwroot\templates\index-16.html
+wwwroot\templates\index-17.html
+wwwroot\templates\index-18.html
+wwwroot\templates\index-2.html
+wwwroot\templates\index-3.html
+wwwroot\templates\index-4.html
+wwwroot\templates\index-5.html
+wwwroot\templates\index-6.html
+wwwroot\templates\index-7.html
+wwwroot\templates\index-8.html
+wwwroot\templates\index-9.html
+wwwroot\templates\index-rtl.html
+wwwroot\templates\index-rtl2.html
+wwwroot\templates\industries.html
+wwwroot\templates\info-box-element.html
+wwwroot\templates\interior-design.html
+wwwroot\templates\it-service.html
+wwwroot\templates\jquery.themepunch.revolution.html
+wwwroot\templates\jquery.themepunch.revolution.min.html
+wwwroot\templates\landing-1.html
+wwwroot\templates\landing-2.html
+wwwroot\templates\landing-3.html
+wwwroot\templates\landing-4.html
+wwwroot\templates\landing-5.html
+wwwroot\templates\list.html
+wwwroot\templates\machine-learning.html
+wwwroot\templates\managed-service.html
+wwwroot\templates\marketing-strategy.html
+wwwroot\templates\odoo-erp.html
+wwwroot\templates\particle-01.html
+wwwroot\templates\particle-02.html
+wwwroot\templates\Popover requires tooltip.html
+wwwroot\templates\portfolio.html
+wwwroot\templates\portfolio-details.html
+wwwroot\templates\pricing.html
+wwwroot\templates\pricing-element.html
+wwwroot\templates\process-element.html
+wwwroot\templates\product-design.html
+wwwroot\templates\product-selling.html
+wwwroot\templates\revulation-slider.html
+wwwroot\templates\revulation-slider-2.html
+wwwroot\templates\service.html
+wwwroot\templates\service-1.html
+wwwroot\templates\service2.html
+wwwroot\templates\service-2.html
+wwwroot\templates\service-3.html
+wwwroot\templates\service-4.html
+wwwroot\templates\service-details.html
+wwwroot\templates\service-element.html
+wwwroot\templates\social-marketing.html
+wwwroot\templates\software.html
+wwwroot\templates\style.css
+wwwroot\templates\team.html
+wwwroot\templates\team-details.html
+wwwroot\templates\team-element.html
+wwwroot\templates\testimonial-element.html
+wwwroot\templates\themepunch.revolution.min.html
+wwwroot\templates\TweenLite.html
+wwwroot\templates\venobox\close.gif
+wwwroot\templates\venobox\next.gif
+wwwroot\templates\venobox\preload-circle.png
+wwwroot\templates\venobox\prev.gif
+wwwroot\templates\venobox\venobox.css
+wwwroot\templates\venobox\venobox.js
+wwwroot\templates\venobox\venobox.min.js
+wwwroot\templates\Version\index.html
+wwwroot\templates\video.html
+wwwroot\templates\why-choose-us.html

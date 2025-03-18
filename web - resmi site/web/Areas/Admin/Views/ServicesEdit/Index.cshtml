@@ -1,0 +1,197 @@
+﻿@model List<entity.Concrate.Service>
+@{
+    ViewData["Title"] = "Hizmetler";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-xxl flex-grow-1 container-p-y">
+    <h4 class="fw-bold py-3 mb-4"><span class="text-muted fw-light">Yönetici Paneli /</span> Hizmetler </h4>
+    <hr class="my-5" />
+
+    <!-- Bordered Table -->
+    <div class="card">
+        <h5 class="card-header">Hizmetler</h5>
+        <div class="card-body">
+            <div class="table-responsive text-nowrap">
+                <table class="table table-bordered">
+                    <thead>
+                        <tr style="text-align:center">
+                            <th><b>BAŞLIK</b></th>
+                            <th><b>KISA YAZI</b></th>
+                            <th><b>TAM YAZI</b></th>
+                            <th style="width: 80px;"><b>DÜZENLE</b></th>
+                            <th style="width: 80px;"><b>SİL</b></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr style="text-align:center">
+                                <td><b>@item.Title</b></td>
+                                <td>
+                                    <button class="btn btn-primary" onclick="showPopup('short', @item.Service_Id)">Görüntüle</button>
+                                </td>
+                                <td>
+                                    <button class="btn btn-primary" onclick="showPopup('text', @item.Service_Id)">Görüntüle</button>
+                                </td>
+                                <td>
+                                    <a class="btn" onclick="editService(@item.Service_Id)">
+                                        <i class="bx bx-edit"></i>
+                                    </a>
+                                </td>
+                                <td>
+                                    <a class="btn" onclick="deleteService(@item.Service_Id)">
+                                        <i class="bx bx-trash"></i> 
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Servis Güncelleme Modalı -->
+<div class="modal fade" id="updateModal" tabindex="-1" aria-labelledby="updateModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Servis Güncelle</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <input type="hidden" id="editServiceId">
+                <div class="mb-3">
+                    <label for="editTitle" class="form-label">Başlık</label>
+                    <input type="text" class="form-control" id="editTitle" placeholder="Başlık girin">
+                </div>
+                <div class="mb-3">
+                    <label for="editShortText" class="form-label">Kısa Açıklama</label>
+                    <textarea class="form-control" id="editShortText" placeholder="Kısa açıklama girin"></textarea>
+                </div>
+                <div class="mb-3">
+                    <label for="editText" class="form-label">Açıklama</label>
+                    <textarea class="form-control" id="editText" placeholder="Açıklama girin"></textarea>
+                </div>
+                <div class="mb-3">
+                    <label for="editPhotoURL" class="form-label">Fotoğraf Bağlantısı</label>
+                    <input type="text" class="form-control" id="editPhotoURL" placeholder="Bağlantı Adresi girin">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">İptal</button>
+                <button type="button" class="btn btn-primary" onclick="saveEdit()">Kaydet</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Popup Modal -->
+<div class="modal fade" id="popupModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Mesaj Detayı</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Kapat"></button>
+            </div>
+            <div class="modal-body" id="popupContent"></div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Kapat</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Script -->
+<script>
+    function showPopup(type, serviceId) {
+        fetch(`/Admin/ServicesEdit/ServiceGet/${serviceId}`)
+            .then(response => response.json())
+            .then(data => {
+                console.log("Gelen Veri:", data); // Hata ayıklamak için JSON'u yazdır
+                let content = type === 'short' ? data.shortText || "Kısa açıklama bulunamadı." : data.text || "Açıklama bulunamadı.";
+                openPopup(content);
+            })
+            .catch(error => console.error("Hata:", error));
+    }
+
+    function editService(serviceId) {
+        fetch(`/Admin/ServicesEdit/ServiceGet/${serviceId}`)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error("Servis bilgileri alınamadı");
+                }
+                return response.json();
+            })
+            .then(data => {
+                document.getElementById("editServiceId").value = data.service_Id || "";
+                document.getElementById("editTitle").value = data.title || "";
+                document.getElementById("editShortText").value = data.shortText || "";
+                document.getElementById("editText").value = data.text || "";
+                document.getElementById("editPhotoURL").value = data.photoURL || "";
+
+                // Modalı aç
+                new bootstrap.Modal(document.getElementById("updateModal")).show();
+            })
+            .catch(error => console.error("Hata:", error));
+    }
+
+    function saveEdit() {
+        var serviceId = document.getElementById("editServiceId").value;
+        var updatedData = {
+            Service_Id: serviceId,
+            Title: document.getElementById("editTitle").value,
+            ShortText: document.getElementById("editShortText").value,
+            Text: document.getElementById("editText").value,
+            PhotoURL: document.getElementById("editPhotoURL").value
+        };
+
+        fetch(`/Admin/ServicesEdit/ServiceUpdate`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(updatedData)
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.success) {
+                alert("Servis başarıyla güncellendi!");
+                location.reload();
+            } else {
+                alert("Güncelleme başarısız!");
+            }
+        })
+        .catch(error => console.error("Hata:", error));
+
+        // Modalı kapat
+        var myModal = bootstrap.Modal.getInstance(document.getElementById("updateModal"));
+        myModal.hide();
+    }
+
+    function deleteService(serviceId) {
+        if (confirm("Bu servisi silmek istediğinizden emin misiniz?")) {
+            fetch(`/Admin/ServicesEdit/ServiceDelete`, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+                body: `id=${serviceId}`
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    alert("Servis başarıyla silindi!");
+                    location.reload();
+                } else {
+                    alert("Silme işlemi başarısız!");
+                }
+            })
+            .catch(error => console.error('Hata:', error));
+        }
+    }
+        function openPopup(content) {
+        const popupContent = document.getElementById("popupContent");
+        popupContent.innerHTML = content;
+        new bootstrap.Modal(document.getElementById("popupModal")).show();
+    }
+
+</script>

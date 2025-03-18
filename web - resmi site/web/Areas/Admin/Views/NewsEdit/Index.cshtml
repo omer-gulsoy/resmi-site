@@ -1,0 +1,202 @@
+﻿@model List<entity.Concrate.News>
+@{
+    ViewData["Title"] = "Haberler";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<div class="container-xxl flex-grow-1 container-p-y">
+    <h4 class="fw-bold py-3 mb-4"><span class="text-muted fw-light">Yönetici Paneli /</span> Haberler </h4>
+    <hr class="my-5" />
+    <!-- Bordered Table -->
+    <div class="card">
+        <h5 class="card-header">Haberler</h5>
+        <div class="card-body">
+            <div class="table-responsive text-nowrap">
+                <table class="table table-bordered">
+                    <thead>
+                        <tr style="text-align:center">
+                            <th><b>BAŞLIK</b></th>
+                            <th><b>KISA YAZI</b></th>
+                            <th><b>TAM YAZI</b></th>
+                            <th style="width: 80px;"><b>DÜZENLE</b></th>
+                            <th style="width: 80px;"><b>SİL</b></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr style="text-align:center">
+                                <td><b>@item.Title</b></td>
+                                <td>
+                                    <!-- Kısa Yazıyı Görüntüleme Butonu -->
+                                    <button class="btn btn-primary" onclick="showPopup('short', @item.News_Id)">Görüntüle</button>
+                                </td>
+                                <td>
+                                    <!-- Tam Yazıyı Görüntüleme Butonu -->
+                                    <button class="btn btn-primary" onclick="showPopup('text', @item.News_Id)">Görüntüle</button>
+                                </td>
+                                <td>
+                                    <!-- Düzenle Butonu -->
+                                    <a class="btn" href="javascript:void(0);" onclick="editNews(@item.News_Id)">
+                                        <i class="menu-icon tf-icons bx bx-edit"></i>
+                                    </a>
+                                </td>
+                                <td>
+                                    <!-- Sil Butonu -->
+                                    <a class="btn" onclick="deleteNews(@item.News_Id)">
+                                        <i class="menu-icon tf-icons bx bx-trash"></i>
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <!--/ Bordered Table -->
+    <hr class="my-5" />
+</div>
+
+<!-- Kısa Yazı Popup Modal'ı -->
+<div class="modal fade" id="popupModalShort" tabindex="-1" aria-labelledby="popupModalShortLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="popupModalShortLabel">Kısa Yazı Detayı</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div id="popupContentShort"></div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Kapat</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Tam Yazı Popup Modal'ı -->
+<div class="modal fade" id="popupModalText" tabindex="-1" aria-labelledby="popupModalTextLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="popupModalTextLabel">Tam Yazı Detayı</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div id="popupContentText"></div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Kapat</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Düzenleme Modal'ı -->
+<div id="editModal" style="display:none; position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
+    background: white; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5); z-index: 1000;">
+    <h3>Haber Güncelle</h3>
+    <input type="hidden" id="editNewsId">
+    <input type="text" id="editTitle" placeholder="Başlık" class="form-control mb-2">
+    <textarea id="editPreDescription" placeholder="Kısa Açıklama" class="form-control mb-2"></textarea>
+    <textarea id="editContent" placeholder="Açıklama" class="form-control mb-2"></textarea>
+    <input type="text" id="editDate" placeholder="Tarih" class="form-control mb-2">
+    <input type="text" id="editPhotoURL" placeholder="Fotoğraf Bağlantısı" class="form-control mb-2">
+    <br>
+    <button onclick="saveEdit()" class="btn btn-success">Kaydet</button>
+    <button onclick="closeModal()" class="btn btn-secondary">İptal</button>
+</div>
+
+<script>
+    // Kısa ve Tam Yazı Popup Modal'ında Görüntüleme
+    function showPopup(type, newsId) {
+        fetch(`/Admin/NewsEdit/NewsGet/${newsId}`)
+            .then(response => response.json())
+            .then(data => {
+                var content = '';
+                if (type === 'short') {
+                    content = data.preDescription; // Kısa yazıyı al
+                    document.getElementById("popupContentShort").innerHTML = content;
+                    var modalShort = new bootstrap.Modal(document.getElementById("popupModalShort"));
+                    modalShort.show(); // Kısa yazı popup'ını aç
+                } else if (type === 'text') {
+                    content = data.content; // Tam yazıyı al
+                    document.getElementById("popupContentText").innerHTML = content;
+                    var modalText = new bootstrap.Modal(document.getElementById("popupModalText"));
+                    modalText.show(); // Tam yazı popup'ını aç
+                }
+            })
+            .catch(error => console.error("Hata:", error));
+    }
+
+    // Düzenleme Butonunun Açılma Fonksiyonu
+    function editNews(newsId) {
+        fetch(`/Admin/NewsEdit/NewsGet/${newsId}`)
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById("editNewsId").value = data.news_Id;
+                document.getElementById("editTitle").value = data.title;
+                document.getElementById("editDate").value = data.date;
+                document.getElementById("editPhotoURL").value = data.photoURL;
+                document.getElementById("editPreDescription").value = data.preDescription;
+                document.getElementById("editContent").value = data.content;
+                document.getElementById("editModal").style.display = "block"; // Modal'ı aç
+            })
+            .catch(error => console.error("Hata:", error));
+    }
+
+    // Modal'ı Kapatma
+    function closeModal() {
+        document.getElementById("editModal").style.display = "none";
+    }
+
+    // Güncellenmiş Veriyi Kaydetme
+    function saveEdit() {
+        var newsId = document.getElementById("editNewsId").value;
+        var updatedData = {
+            News_Id: newsId,
+            Title: document.getElementById("editTitle").value,
+            Date: document.getElementById("editDate").value,
+            PhotoURL: document.getElementById("editPhotoURL").value,
+            PreDescription: document.getElementById("editPreDescription").value,
+            Content: document.getElementById("editContent").value
+        };
+
+        fetch(`/Admin/NewsEdit/NewsUpdate`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(updatedData)
+        })
+        .then(response => {
+            if (response.ok) {
+                alert("Haber güncellendi!");
+                location.reload(); // Sayfayı yenileyerek güncellenmiş veriyi göster
+            } else {
+                alert("Güncelleme başarısız!");
+            }
+        })
+        .catch(error => console.error("Hata:", error));
+
+        closeModal(); // Modal'ı kapat
+    }
+
+    // Silme Fonksiyonu
+    function deleteNews(newsId) {
+        if (confirm("Bu haberi silmek istediğinizden emin misiniz?")) {
+            fetch(`/Admin/NewsEdit/NewsDelete/${newsId}`, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' }
+            })
+            .then(response => {
+                if (response.ok) {
+                    alert("Haber başarıyla silindi!");
+                    location.reload(); // Sayfayı yenileyerek güncellenmiş listeyi göster
+                } else {
+                    alert("Silme işlemi başarısız!");
+                }
+            })
+            .catch(error => console.error('Hata:', error));
+        }
+    }
+</script>

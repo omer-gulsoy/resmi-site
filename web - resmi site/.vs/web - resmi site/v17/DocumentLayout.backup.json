@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\win11\\Documents\\Projeler\\web - resmi site\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9B4921-F81D-4E4A-8F80-E7AA8CDD0F4A}|web\\web.csproj|c:\\users\\win11\\documents\\projeler\\web - resmi site\\web\\views\\company\\applyjob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9B4921-F81D-4E4A-8F80-E7AA8CDD0F4A}|web\\web.csproj|solutionrelative:web\\views\\company\\applyjob.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9B4921-F81D-4E4A-8F80-E7AA8CDD0F4A}|web\\web.csproj|c:\\users\\win11\\documents\\projeler\\web - resmi site\\web\\views\\company\\applyintern.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9B4921-F81D-4E4A-8F80-E7AA8CDD0F4A}|web\\web.csproj|solutionrelative:web\\views\\company\\applyintern.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9B4921-F81D-4E4A-8F80-E7AA8CDD0F4A}|web\\web.csproj|c:\\users\\win11\\documents\\projeler\\web - resmi site\\web\\wwwroot\\formhr\\isbasvurusu.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9B4921-F81D-4E4A-8F80-E7AA8CDD0F4A}|web\\web.csproj|solutionrelative:web\\wwwroot\\formhr\\isbasvurusu.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9B4921-F81D-4E4A-8F80-E7AA8CDD0F4A}|web\\web.csproj|c:\\users\\win11\\documents\\projeler\\web - resmi site\\web\\views\\company\\joblist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9B4921-F81D-4E4A-8F80-E7AA8CDD0F4A}|web\\web.csproj|solutionrelative:web\\views\\company\\joblist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9B4921-F81D-4E4A-8F80-E7AA8CDD0F4A}|web\\web.csproj|c:\\users\\win11\\documents\\projeler\\web - resmi site\\web\\views\\company\\qualitydocs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9B4921-F81D-4E4A-8F80-E7AA8CDD0F4A}|web\\web.csproj|solutionrelative:web\\views\\company\\qualitydocs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9B4921-F81D-4E4A-8F80-E7AA8CDD0F4A}|web\\web.csproj|c:\\users\\win11\\documents\\projeler\\web - resmi site\\web\\views\\productandservice\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9B4921-F81D-4E4A-8F80-E7AA8CDD0F4A}|web\\web.csproj|solutionrelative:web\\views\\productandservice\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9B4921-F81D-4E4A-8F80-E7AA8CDD0F4A}|web\\web.csproj|c:\\users\\win11\\documents\\projeler\\web - resmi site\\web\\views\\productandservice\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9B4921-F81D-4E4A-8F80-E7AA8CDD0F4A}|web\\web.csproj|solutionrelative:web\\views\\productandservice\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9B4921-F81D-4E4A-8F80-E7AA8CDD0F4A}|web\\web.csproj|c:\\users\\win11\\documents\\projeler\\web - resmi site\\web\\views\\productandservice\\moduls.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9B4921-F81D-4E4A-8F80-E7AA8CDD0F4A}|web\\web.csproj|solutionrelative:web\\views\\productandservice\\moduls.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplyIntern.cshtml",
+              "DocumentMoniker": "C:\\Users\\win11\\Documents\\Projeler\\web - resmi site\\web\\Views\\Company\\ApplyIntern.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\Company\\ApplyIntern.cshtml",
+              "ToolTip": "C:\\Users\\win11\\Documents\\Projeler\\web - resmi site\\web\\Views\\Company\\ApplyIntern.cshtml",
+              "RelativeToolTip": "web\\Views\\Company\\ApplyIntern.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T08:19:02.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobList.cshtml",
+              "DocumentMoniker": "C:\\Users\\win11\\Documents\\Projeler\\web - resmi site\\web\\Views\\Company\\JobList.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\Company\\JobList.cshtml",
+              "ToolTip": "C:\\Users\\win11\\Documents\\Projeler\\web - resmi site\\web\\Views\\Company\\JobList.cshtml",
+              "RelativeToolTip": "web\\Views\\Company\\JobList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T08:17:31.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplyJob.cshtml",
+              "DocumentMoniker": "C:\\Users\\win11\\Documents\\Projeler\\web - resmi site\\web\\Views\\Company\\ApplyJob.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\Company\\ApplyJob.cshtml",
+              "ToolTip": "C:\\Users\\win11\\Documents\\Projeler\\web - resmi site\\web\\Views\\Company\\ApplyJob.cshtml*",
+              "RelativeToolTip": "web\\Views\\Company\\ApplyJob.cshtml*",
+              "ViewState": "AgIAAKUBAAAAAAAAAAAqwNABAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T08:16:23.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "isbasvurusu.html",
+              "DocumentMoniker": "C:\\Users\\win11\\Documents\\Projeler\\web - resmi site\\web\\wwwroot\\formHR\\isbasvurusu.html",
+              "RelativeDocumentMoniker": "web\\wwwroot\\formHR\\isbasvurusu.html",
+              "ToolTip": "C:\\Users\\win11\\Documents\\Projeler\\web - resmi site\\web\\wwwroot\\formHR\\isbasvurusu.html",
+              "RelativeToolTip": "web\\wwwroot\\formHR\\isbasvurusu.html",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAAABkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-18T08:07:19.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QualityDocs.cshtml",
+              "DocumentMoniker": "C:\\Users\\win11\\Documents\\Projeler\\web - resmi site\\web\\Views\\Company\\QualityDocs.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\Company\\QualityDocs.cshtml",
+              "ToolTip": "C:\\Users\\win11\\Documents\\Projeler\\web - resmi site\\web\\Views\\Company\\QualityDocs.cshtml",
+              "RelativeToolTip": "web\\Views\\Company\\QualityDocs.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T07:15:27.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "C:\\Users\\win11\\Documents\\Projeler\\web - resmi site\\web\\Views\\ProductAndService\\Products.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\ProductAndService\\Products.cshtml",
+              "ToolTip": "C:\\Users\\win11\\Documents\\Projeler\\web - resmi site\\web\\Views\\ProductAndService\\Products.cshtml",
+              "RelativeToolTip": "web\\Views\\ProductAndService\\Products.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAACzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T06:57:25.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Moduls.cshtml",
+              "DocumentMoniker": "C:\\Users\\win11\\Documents\\Projeler\\web - resmi site\\web\\Views\\ProductAndService\\Moduls.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\ProductAndService\\Moduls.cshtml",
+              "ToolTip": "C:\\Users\\win11\\Documents\\Projeler\\web - resmi site\\web\\Views\\ProductAndService\\Moduls.cshtml",
+              "RelativeToolTip": "web\\Views\\ProductAndService\\Moduls.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T06:55:50.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Services.cshtml",
+              "DocumentMoniker": "C:\\Users\\win11\\Documents\\Projeler\\web - resmi site\\web\\Views\\ProductAndService\\Services.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\ProductAndService\\Services.cshtml",
+              "ToolTip": "C:\\Users\\win11\\Documents\\Projeler\\web - resmi site\\web\\Views\\ProductAndService\\Services.cshtml",
+              "RelativeToolTip": "web\\Views\\ProductAndService\\Services.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T06:54:18.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

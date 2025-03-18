@@ -1,0 +1,177 @@
+﻿@model List<entity.Concrate.Service>
+@{
+	ViewData["Title"] = "Vizyonumuz ve Misyonumuz";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+	int sayi = 1;
+}
+<div class="about_area pt-85 pb-100">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-6">
+				<div class="single_about_thumb mb-3">
+					<div class="single_about_thumb_inner">
+						<img src="~/templates/assets/images/about1.jpg" alt="" />
+					</div>
+				</div>
+				<div class="single_about_shape">
+					<div class="single_about_shape_thumb bounce-animate">
+						<img src="~/templates/assets/images/about-circle.png" alt="" />
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-6">
+				<div class="section_title text_left mb-40 mt-3">
+					<div class="section_sub_title uppercase mb-3">
+						<h6>KURUMSAL</h6>
+					</div>
+					<div class="section_main_title">
+						<h1>Vizyonumuz</h1>
+					</div>
+					<div class="em_bar">
+						<div class="em_bar_bg"></div>
+					</div>
+					<div class="section_content_text pt-4">
+						<p>
+							Sağlık sektöründe; ülkemizdeki sağlık standardlarını sürekli şekilde bir üst seviyeye taşıyarak lider bir firma olmak ve müşterilerimizin beklenti ve ihtiyaçlarını zamanında etkin bir şekilde karşılayarak güçlü ilişkiler sağlamaktır.
+
+							Bilişim teknolojilerini yakından takip ederek, AR-GE ve veri güvenliği çalışmalarına önem vererek mümkün olan en düşük maliyetle en yüksek kaliteyi müşterilerimize sunmayı hedeflemekle birlikte bilişim teknolojilerinin de öncüsü olmaktır.
+
+							Kullanımı kolay ve mümkün olduğunca az destek gereksinimine ihtiyaç duyan yazılımlar üretmek ilk hedefimizdir.
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="row mt-5">
+			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-6">
+				<div class="section_title text_left mb-40 mt-3">
+					<div class="section_sub_title uppercase mb-3">
+						<h6>KURUMSAL</h6>
+					</div>
+					<div class="section_main_title">
+						<h1>Misyonumuz</h1>
+					</div>
+					<div class="em_bar">
+						<div class="em_bar_bg"></div>
+					</div>
+					<div class="section_content_text pt-4">
+						<p>
+							Sağlık sektöründe; gelişme ve standardları takip ederek, sektörün ve kurumların gelişmesi için teknolojik ve içerik yönünden güçlü uygulama ve ülkemiz sağlık çalışanları ile hastaların güvenliğini en üst düzeye taşıyacak ürünleri hızlı servis hizmetiyle sunmaktır.
+
+							Hedefimiz, son teknolojileri barındıran hizmetleri müşterilerimize sunmak ve mümkün olduğunca kullanıcı dostu programlar ile iş yükünü azaltmaktır.
+
+							Programlarımız, yasal mevzuat ve uygulamalar göre yazılmakta ve anında güncellenmektedir.
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-6">
+				<div class="single_about_thumb mb-3">
+					<div class="single_about_thumb_inner">
+						<img src="~/templates/assets/images/about1.jpg" alt="" />
+					</div>
+				</div>
+				<div class="single_about_shape">
+					<div class="single_about_shape_thumb bounce-animate">
+						<img src="~/templates/assets/images/about-circle.png" alt="" />
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="call_do_action pt-85 pb-130 bg_color"
+style="background-image: url('@Url.Content("~/templates/assets/images/slider/slider-6.jpg")');">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="section_title white text_center mb-60 mt-3">
+					<div class="section_main_title">
+						<h1>To make requests for the</h1>
+						<h1>further information</h1>
+					</div>
+					<div class="button three mt-40">
+						<a href="~/Contact/Index">
+							İletişim <i class="fa fa-long-arrow-right"></i>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="counter_area">
+	<div class="container">
+		<div class="row cntr_bg_up nagative_margin pt-50 pb-45">
+			<div class="col-lg-3 col-md-6 col-sm-12">
+				<div class="single_counter text_center mb-4">
+					<div class="countr_text">
+						<h1><span class="counter">58</span></h1>
+					</div>
+					<div class="counter_desc">
+						<h5>Hastane İşbirliği</h5>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3 col-md-6 col-sm-12">
+				<div class="single_counter text_center mb-4">
+					<div class="countr_text">
+						<h1><span class="counter">74</span></h1>
+					</div>
+					<div class="counter_desc">
+						<h5>Diş Hastanesi İşbirliği</h5>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3 col-md-6 col-sm-12">
+				<div class="single_counter text_center mb-4">
+					<div class="countr_text">
+						<h1><span class="counter">5.000</span><span>+</span></h1>
+					</div>
+					<div class="counter_desc">
+						<h5>Teslim Edilen Proje</h5>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3 col-md-6 col-sm-12">
+				<div class="single_counter text_center mb-4">
+					<div class="countr_text">
+						<h1><span class="counter">17</span><span>+</span></h1>
+					</div>
+					<div class="counter_desc">
+						<h5>Yıl Deneyim</h5>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="service_area pt-85 pb-70">
+	<div class="container">
+		<div class="row">
+			@foreach (var servis in Model)
+			{
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="service_style_two mb-4">
+						<div class="service_style_two_number mr-60">
+							<h5>0 @sayi</h5>
+						</div>
+						<div class="service_style_two_content">
+							<div class="service_style_two_title pb-3">
+								<h4>@servis.Title</h4>
+							</div>
+							<div class="service_style_two_text">
+								<p>
+									@servis.ShortText
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				sayi++;
+			}
+
+		</div>
+	</div>
+</div>

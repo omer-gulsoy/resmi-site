@@ -1,0 +1,374 @@
+﻿@{
+	ViewData["Title"] = "Yönetici Paneli";
+	Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<div class="container-xxl flex-grow-1 container-p-y">
+	<div class="row">
+		<!-- Total Revenue -->
+		<div class="col-12 col-lg-8 order-2 order-md-3 order-lg-2 mb-4">
+			<div class="card">
+
+				<!-- Striped Rows -->
+				<div class="card">
+					<h5 class="card-header"><i class="menu-icon tf-icons bx bx-edit"></i>İletişim Formu</h5>
+					<div class="table-responsive text-nowrap">
+						<table style="text-align:center" class="table table-striped">
+							<thead>
+								<tr>
+									<th>İSİM SOYİSİM</th>
+									<th>E-POSTA ADRESİ</th>
+									<th>TELEFON NUMARASI</th>
+									<th>MESAJ</th>
+								</tr>
+							</thead>
+							<tbody class="table-border-bottom-0">
+								@foreach (var satir in ViewBag.Form)
+								{
+									<tr>
+										<td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>@satir.FirstName @satir.LastName</strong></td>
+										<td>
+											<a href="mailto:@satir.Email">
+												@satir.Email
+											</a>
+										</td>
+										<td>
+											<a href="tel:@satir.Phone">
+												@satir.Phone
+											</a>
+										</td>
+
+										<td>
+											<button class="btn-sm btn-danger" onclick="openModal('@satir.FirstName @satir.LastName', '@satir.Message')">
+												Görüntüle
+											</button>
+										</td>
+									</tr>
+								}
+							</tbody>
+						</table>
+					</div>
+				</div>
+				<!--/ Striped Rows -->
+			</div>
+		</div>
+		<!--/ Total Revenue -->
+		<div class="col-12 col-md-8 col-lg-4 order-3 order-md-2">
+			<div class="row">
+				<!-- Hizmetler -->
+				<div class="col-6 mb-4">
+					<div class="card">
+						<div class="card-body">
+							<div class="card-title d-flex align-items-start justify-content-between">
+								<div class="avatar flex-shrink-0">
+								</div>
+							</div>
+							<h4 class="card-title text-nowrap mb-2">
+								<i class="menu-icon tf-icons bx bx-collection"></i>
+								Hizmetler
+							</h4>
+							<div style="display: flex; justify-content: center; align-items: center;">
+								<a href="~/Admin/ServicesEdit/Index">
+									<button class="btn btn-danger mt-3">Düzenle</button>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!--/ Hizmetler -->
+				<!-- Modüller -->
+				<div class="col-6 mb-4">
+					<div class="card">
+						<div class="card-body">
+							<div class="card-title d-flex align-items-start justify-content-between">
+								<div class="avatar flex-shrink-0">
+								</div>
+							</div>
+							<h4 class="card-title text-nowrap mb-2">
+								<i class="menu-icon tf-icons bx bx-grid-alt"></i>Modüller
+							</h4>
+							<div style="display: flex; justify-content: center; align-items: center;">
+								<a href="~/Admin/ModulsEdit/Index">
+									<button class="btn btn-danger mt-3">Düzenle</button>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!--/ Modüller -->
+				<!-- Ürünler -->
+				<div class="col-12 mb-4">
+					<div class="card">
+						<div class="card-body">
+							<div class="d-flex justify-content-between flex-sm-row flex-column gap-3">
+								<div class="d-flex flex-sm-column flex-row align-items-start justify-content-between">
+
+									<div class="mt-sm-auto">
+										<small class="text-success text-nowrap fw-semibold"><br /></small>
+										<h3 class="mb-0"><br /></h3>
+									</div>
+									<div class="card-title text-center">
+										<h4 class="text-nowrap mb-2">
+											<i class="menu-icon tf-icons bx bx-grid-alt"></i> Ürünler
+										</h4>
+										<span class="badge"><br /></span>
+									</div>
+
+								</div>
+								<div style="display: flex; justify-content: center; align-items: center;">
+									<a href="~/Admin/ProductsEdit/Index">
+										<button class="btn btn-danger">Düzenle</button>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!--/ Ürünler -->
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<!-- Haberler -->
+		<div class="col-md-6 col-lg-4 order-2 mb-4">
+			<div class="card h-100">
+				<div class="card-header d-flex align-items-center justify-content-between">
+					<h5 class="card-title m-0 me-2"><i class="menu-icon tf-icons bx bx-news"></i>Haberler</h5>
+					<div class="dropdown">
+						<button class="btn p-0"
+								type="button"
+								id="transactionID"
+								data-bs-toggle="dropdown"
+								aria-haspopup="true"
+								aria-expanded="false">
+							<i class="bx bx-dots-vertical-rounded"></i>
+						</button>
+						<div class="dropdown-menu dropdown-menu-end" aria-labelledby="transactionID">
+							<a class="dropdown-item" href="~/Company/News/Index">Kullanıcı gözü</a>
+							<a class="dropdown-item" href="~/Admin/NewsEdit/Index">Düzenle</a>
+						</div>
+					</div>
+				</div>
+				<div class="card-body">
+					<ul class="p-0 m-0">
+						@foreach (var haber in ViewBag.Haberler)
+						{
+							<li class="d-flex mb-4 pb-1">
+								<div class="avatar flex-shrink-0 me-3">
+									<img src="~/templates/assets/img/icons/unicons/paypal.png" class="rounded" />
+								</div>
+								<div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
+									<div class="me-2">
+										<a href="~/Admin/NewsEdit/Index">
+											<h6 class="mb-0">@haber.Title</h6>
+										</a>
+									</div>
+									<div class="user-progress d-flex align-items-center gap-1">
+										<span class="text-muted">@haber.Date.ToString("dd MMM yyyy")</span>
+									</div>
+								</div>
+							</li>
+
+						}
+					</ul>
+				</div>
+			</div>
+		</div>
+		<!-- Haberler -->
+		<!-- Duyurular -->
+		<div class="col-md-6 col-lg-4 order-2 mb-4">
+			<div class="card h-100">
+				<div class="card-header d-flex align-items-center justify-content-between">
+					<h5 class="card-title m-0 me-2"><i class="menu-icon tf-icons bx bx-bell"></i>Duyurular</h5>
+					<div class="dropdown">
+						<button class="btn p-0"
+								type="button"
+								id="transactionID"
+								data-bs-toggle="dropdown"
+								aria-haspopup="true"
+								aria-expanded="false">
+							<i class="bx bx-dots-vertical-rounded"></i>
+						</button>
+						<div class="dropdown-menu dropdown-menu-end" aria-labelledby="transactionID">
+							<a class="dropdown-item" href="~/Company/Notice/Index">Kullanıcı gözü</a>
+							<a class="dropdown-item" href="~/Admin/NoticeEdit/Index">Düzenle</a>
+						</div>
+					</div>
+				</div>
+				<div class="card-body">
+					<ul class="p-0 m-0">
+						@foreach (var duyuru in ViewBag.Duyurular)
+						{
+							<li class="d-flex mb-4 pb-1">
+								<div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
+									<div class="me-2">
+										<a href="~/Admin/NoticeEdit/Index">
+											<h6 class="mb-0">@duyuru.Title</h6>
+										</a>
+									</div>
+								</div>
+							</li>
+
+						}
+					</ul>
+				</div>
+			</div>
+		</div>
+		<!-- Duyurular -->
+		<!-- Etkinlikler -->
+		<div class="col-md-6 col-lg-4 order-2 mb-4">
+			<div class="card h-100">
+				<div class="card-header d-flex align-items-center justify-content-between">
+					<h5 class="card-title m-0 me-2"><i class="menu-icon tf-icons bx bx-calendar-event"></i>Etkinlikler</h5>
+					<div class="dropdown">
+						<button class="btn p-0"
+								type="button"
+								id="transactionID"
+								data-bs-toggle="dropdown"
+								aria-haspopup="true"
+								aria-expanded="false">
+							<i class="bx bx-dots-vertical-rounded"></i>
+						</button>
+						<div class="dropdown-menu dropdown-menu-end" aria-labelledby="transactionID">
+							<a class="dropdown-item" href="~/Company/Event/Index">Kullanıcı gözü</a>
+							<a class="dropdown-item" href="~/Admin/EventEdit/Index">Düzenle</a>
+						</div>
+					</div>
+				</div>
+				<div class="card-body">
+					<ul class="p-0 m-0">
+						@foreach (var etkinlik in ViewBag.Etkinlikler)
+						{
+							<li class="d-flex mb-4 pb-1">
+								<div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
+									<div class="me-2">
+										<a href="~/Admin/EventEdit/Index">
+											<h6 class="mb-0">@etkinlik.Title</h6>
+										</a>
+									</div>
+								</div>
+							</li>
+
+						}
+					</ul>
+				</div>
+			</div>
+		</div>
+		<!-- Etkinlikler -->
+	</div>
+	<div class="row">
+		<!-- Total Revenue -->
+		<div class="col-12 col-lg-8 order-2 order-md-3 order-lg-2 mb-4">
+			<div class="card">
+
+				<!-- Striped Rows -->
+				<div class="card">
+					<h5 class="card-header"><i class="menu-icon tf-icons bx bx-spreadsheet"></i>Demo Başvurusu Formu</h5>
+					<div class="table-responsive text-nowrap">
+						<table style="text-align:center" class="table table-striped">
+							<thead>
+								<tr>
+									<th>İSİM SOYİSİM</th>
+									<th>KURUM İSMİ</th>
+									<th>UNVAN</th>
+									<th>CEP TELEFON NUMARASI</th>
+									<th>DETAYLAR</th>
+								</tr>
+							</thead>
+							<tbody class="table-border-bottom-0">
+								@foreach (var satir in ViewBag.Demo)
+								{
+									<tr>
+										<td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>@satir.Isim @satir.Soyisim</strong></td>
+										<td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>@satir.KurumIsmi</strong></td>
+										<td><i class="fab fa-angular fa-lg text-danger me-3"></i> <strong>@satir.Unvan</strong></td>
+										<td>
+											<a href="tel:@satir.TelefonCep">
+												@satir.TelefonCep
+											</a>
+										</td>
+										<td>
+											<button class="btn-sm btn-danger" onclick="openModal2('@satir.Isim @satir.Soyisim', '@satir.Mail', '@satir.TelefonCep', '@satir.TelefonSabit', '@satir.Unvan', '@satir.KurumIsmi','@satir.Aciklama')">
+												Görüntüle
+											</button>
+										</td>
+									</tr>
+								}
+							</tbody>
+						</table>
+					</div>
+				</div>
+				<!--/ Striped Rows -->
+			</div>
+		</div>
+		<!--/ Total Revenue -->
+		<div class="col-12 col-md-8 col-lg-4 order-3 order-md-2">
+			<div class="row">
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<!-- Mesaj Görüntüleme Modalı -->
+<div class="modal fade" id="messageModal" tabindex="-1" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title" id="messageModalTitle"></h5>
+				<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Kapat"></button>
+			</div>
+			<div class="modal-body" id="messageModalBody"></div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-danger" data-bs-dismiss="modal">Kapat</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Mesaj Görüntüleme Modalı -->
+<div class="modal fade" id="messageModal2" tabindex="-1" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title" id="messageModalTitle"></h5>
+				<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Kapat"></button>
+			</div>
+			<div class="modal-body">
+				<p id="messageModalBody"></p>
+				<hr>
+				<p><strong>Cep Telefonu:</strong> <span id="modalMail"></span></p>
+				<p><strong>Sabit Telefon:</strong> <span id="modalTelefonCep"></span></p>
+				<p><strong>Unvan:</strong> <span id="modalTelefonSabit"></span></p>
+				<p><strong>Kurum:</strong> <span id="modalUnvan"></span></p>
+				<p><strong>Açıklama:</strong> <span id="modalKurum"></span></p>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-danger" data-bs-dismiss="modal">Kapat</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<script>
+	function openModal(name, message) {
+		document.getElementById("messageModalTitle").innerText = name;
+		document.getElementById("messageModalBody").innerText = message;
+		var modal = new bootstrap.Modal(document.getElementById("messageModal"));
+		modal.show();
+	}
+		function openModal2(isim, aciklama, mail, telefonCep, telefonSabit, unvan, kurumIsmi) {
+		document.getElementById("messageModalTitle").innerText = isim;
+		document.getElementById("messageModalBody").innerText = aciklama;
+		document.getElementById("modalMail").innerText = mail;
+		document.getElementById("modalTelefonCep").innerText = telefonCep;
+		document.getElementById("modalTelefonSabit").innerText = telefonSabit;
+		document.getElementById("modalUnvan").innerText = unvan;
+		document.getElementById("modalKurum").innerText = kurumIsmi;
+
+		var modal = new bootstrap.Modal(document.getElementById("messageModal2"));
+		modal.show();
+	}
+
+</script>
+

@@ -1,0 +1,57 @@
+﻿@model entity.Concrate.MailRegister;
+@{
+	ViewData["Title"] = "Haberlerimiz";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!--==================================================-->
+<!----- Start Techno Blog Area ----->
+<!--==================================================-->
+<div class="blog_area pt-85 pb-65">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="section_title text_center mb-55">
+					<div class="section_sub_title uppercase mb-3">
+						<h6>MEDYA</h6>
+					</div>
+					<div class="section_main_title">
+						<h1>Haberlerimiz</h1>
+					</div>
+					<div class="em_bar">
+						<div class="em_bar_bg"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+
+			@foreach (var item in ViewBag.Haber)
+			{
+				<div class="col-lg-4 col-md-6 col-sm-12">
+					<div class="single_blog mb-30">
+						<div class="single_blog_thumb pb-4">
+							<a href="blog-details.html">
+								<img src="@item.PhotoURL" alt="" />
+							</a>
+						</div>
+						<div class="single_blog_content pl-4 pr-4">
+							<div class="techno_blog_meta">
+								<a href="#">@item.Title </a>
+								<span class="meta-date pl-3">@item.Date.ToString("d MMMM yyyy", new System.Globalization.CultureInfo("tr-TR"))</span>
+							</div>
+							<div class="blog_page_title pb-35">
+								<h3>
+									<a href="blog-details.html">@item.PreDescription</a>
+								</h3>
+							</div>
+						</div>
+					</div>
+				</div>				
+			}
+
+		</div>
+	</div>
+</div>
+<!--==================================================-->
+<!----- End Techno Blog Area ----->
+<!--==================================================-->

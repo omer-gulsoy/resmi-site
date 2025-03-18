@@ -1,0 +1,102 @@
+﻿@model entity.Concrate.News
+@{
+	ViewData["Title"] = Model.Title;
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!-- BLOG AREA -->
+<div class="blog_area blog-details-area pt-100 pb-100" id="blog">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 col-md-7 col-sm-12 col-xs-12">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="blog_details">
+							<div class="blog_dtl_thumb">
+								<img src="@Model.PhotoURL" alt="" />
+							</div>
+
+							<div class="blog_dtl_content">
+								<h2>
+									@Model.Title
+								</h2>
+								<!-- BLOG META -->
+								<div class="techno-blog-meta">
+									<div class="techno-blog-meta-left">
+										<span><i class="fa fa-calendar"></i>@Model.Date	 </span>
+									</div>
+								</div>
+								<p>
+									Lorem ipsum dolor sit amet consectet adipisie cing elit
+									sed eiusmod tempor incididunt on labore et dolore. Ut enim
+									ad minim veniam, quis nostrud exercitation ullamco laboris
+									nisi ut aliquip ex ea commodo.
+								</p>
+								<p>
+									Bccaecat cupidatat non proident, sunt in culpa qui officia
+									deserunt mollit anim id est there laborum. Sed ut
+									perspiciatis unde omnis iste natus error sit voluptatem
+									accusantium ware doloremque laudantium, totam rem aperiam,
+									eaque ipsa quae ab illo inventore veritatis et quasi
+									architecto beatae vitae dicta sunt explicabo. Nemo enim
+									ipsam voluptatem quia on voluptas sit aspernatur aut odit
+									aut fugit, sed quia consequuntur magni dolores eos query
+									ratione voluptatem sequi nesciunt. Neque porro quisquam
+								</p>
+								<p>
+									Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+									sed do eiusmod tempor dolor an incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+									there exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat. Duis aute irure poor dolor in
+									reprehenderit in voluptate velit esse cillum
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-12">
+						<div class="recent_post_dtls mt-5">
+							<div class="blog_dt_title mb-4">
+								<h4>Diğer Haberler</h4>
+							</div>
+							<div class="row">
+								@foreach (var haber in ViewBag.Oneri)
+								{
+									<div class="col-lg-6 col-md-6 col-sm-12">
+										<div class="single_blog mb-4">
+											<div class="single_blog_thumb pb-4">
+												<a href="blog-details.html">
+													<img src="@haber.PhotoURL" alt="" />
+												</a>
+											</div>
+											<div class="single_blog_content pl-4 pr-4">
+												<div class="techno_blog_meta">
+													<span class="meta-date">@haber.Date</span>
+												</div>
+												<div class="blog_page_title pb-1">
+													<h3>
+														<a href="blog-details.html">@haber.Title</a>
+													</h3>
+												</div>
+												<div class="blog_description">
+													<p>
+														@haber.PreDescription
+													</p>
+												</div>
+												<div class="blog_page_button pb-4">
+													<a href="~/Company/NewsDetail/@haber.News_Id">
+														Okumaya devam et <i class="fa fa-long-arrow-right"></i>
+													</a>
+												</div>
+											</div>
+										</div>
+									</div>									
+								} 
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- BLOG_AREA END -->

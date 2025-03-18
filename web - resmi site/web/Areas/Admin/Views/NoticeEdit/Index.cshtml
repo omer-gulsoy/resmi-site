@@ -1,0 +1,195 @@
+﻿@model List<entity.Concrate.Notice>
+@{
+	ViewData["Title"] = "Duyurular";
+	Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<div class="container-xxl flex-grow-1 container-p-y">
+	<h4 class="fw-bold py-3 mb-4"><span class="text-muted fw-light">Yönetici Paneli /</span> Duyurular </h4>
+	<hr class="my-5" />
+	<!-- Bordered Table -->
+	<div class="card">
+		<h5 class="card-header">Duyurular</h5>
+		<div class="card-body">
+			<div class="table-responsive text-nowrap">
+				<table class="table table-bordered">
+					<thead>
+						<tr style="text-align:center">
+							<th><b>BAŞLIK</b></th>
+							<th><b>KISA YAZI</b></th>
+							<th><b>TAM YAZI</b></th>
+							<th style="width: 80px;"><b>DÜZENLE</b></th>
+							<th style="width: 80px;"><b>SİL</b></th>
+						</tr>
+					</thead>
+					<tbody>
+						@foreach (var item in Model)
+						{
+							<tr style="text-align:center">
+								<td><b>@item.Title</b></td>
+								<td>
+									<button class="btn btn-primary" onclick="showPopup('short', @item.Notice_Id)">Görüntüle</button>
+								</td>
+								<td>
+									<button class="btn btn-primary" onclick="showPopup('text', @item.Notice_Id)">Görüntüle</button>
+								</td>
+								<!-- Düzenle Butonu -->
+								<td>
+									<a class="btn" onclick="editNotice(@item.Notice_Id)">
+										<i class="menu-icon tf-icons bx bx-edit"></i>
+									</a>
+								</td>
+
+								<td>
+									<a class="btn" onclick="deleteNotice(@item.Notice_Id)">
+										<i class="menu-icon tf-icons bx bx-trash"></i>
+									</a>
+								</td>
+							</tr>
+						}
+
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+	<!--/ Bordered Table -->
+	<hr class="my-5" />
+	<!-- Borderless Table -->
+</div>
+
+<!-- Modal Yapısı (Duyuru Güncelleme) -->
+<div class="modal fade" id="updateModal" tabindex="-1" aria-labelledby="updateModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title" id="updateModalLabel">Duyuru Güncelle</h5>
+				<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+			</div>
+			<div class="modal-body">
+				<input type="hidden" id="editNoticeId">
+				<div class="mb-3">
+					<label for="editTitle" class="form-label">Başlık</label>
+					<input type="text" class="form-control" id="editTitle" placeholder="Başlık girin">
+				</div>
+				<div class="mb-3">
+					<label for="editShortText" class="form-label">Kısa Açıklama</label>
+					<textarea class="form-control" id="editShortText" placeholder="Kısa açıklama girin"></textarea>
+				</div>
+				<div class="mb-3">
+					<label for="editText" class="form-label">Açıklama</label>
+					<textarea class="form-control" id="editText" placeholder="Açıklama girin"></textarea>
+				</div>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">İptal</button>
+				<button type="button" class="btn btn-primary" onclick="saveEdit()">Kaydet</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<!-- Popup Modal -->
+<div class="modal fade" id="popupModal" tabindex="-1" aria-hidden="true">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title">Mesaj Detayı</h5>
+				<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Kapat"></button>
+			</div>
+			<div class="modal-body" id="popupContent">
+				<!-- İçerik buraya yüklenecek -->
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Kapat</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script>
+		// Pop-up gösterme fonksiyonu
+	function showPopup(type, noticeId) {
+		fetch(`/Admin/NoticeEdit/NoticeGet/${noticeId}`)
+			.then(response => response.json())
+			.then(data => openPopup(type === 'short' ? data.shortText : data.text))
+			.catch(error => console.error("Hata:", error));
+	}
+
+	// Popup modalını açan fonksiyon
+	function openPopup(content) {
+		document.getElementById("popupContent").innerHTML = content;
+		new bootstrap.Modal(document.getElementById("popupModal")).show();
+		}// Düzenle butonuna tıklanması ile pop-up açılacak
+	function editNotice(noticeId) {
+	  // Duyuru verisini almak için API çağrısı yapıyoruz
+	  fetch(`/Admin/NoticeEdit/NoticeGet/${noticeId}`)
+		.then(response => response.json())
+		.then(data => {
+		  // Modal içeriğini güncelliyoruz
+		  document.getElementById("editNoticeId").value = data.notice_Id;
+		  document.getElementById("editTitle").value = data.title;
+		  document.getElementById("editShortText").value = data.shortText;
+		  document.getElementById("editText").value = data.text;
+
+		  // Bootstrap modal'ını açıyoruz
+		  var myModal = new bootstrap.Modal(document.getElementById("updateModal"));
+		  myModal.show();
+		})
+		.catch(error => console.error("Hata:", error));
+	}
+
+	// Modal'da yapılan değişiklikleri kaydetme
+	function saveEdit() {
+	  var noticeId = document.getElementById("editNoticeId").value;
+	  var updatedData = {
+		Notice_Id: noticeId,
+		Title: document.getElementById("editTitle").value,
+		ShortText: document.getElementById("editShortText").value,
+		Text: document.getElementById("editText").value
+	  };
+
+	  // API'ye veri gönderiyoruz
+	  fetch(`/Admin/NoticeEdit/NoticeUpdate`, {
+		method: 'POST',
+		headers: {
+		  'Content-Type': 'application/json'
+		},
+		body: JSON.stringify(updatedData)
+	  })
+	  .then(response => {
+		if (response.ok) {
+		  alert("Duyuru başarıyla güncellendi!");
+		  location.reload(); // Sayfayı yenileyerek güncellenmiş listeyi göster
+		} else {
+		  alert("Güncelleme başarısız!");
+		}
+	  })
+	  .catch(error => console.error("Hata:", error));
+
+	  // Modal'ı kapatma
+	  var myModal = new bootstrap.Modal(document.getElementById("updateModal"));
+	  myModal.hide();
+	}
+
+
+	// Duyuru silme
+	function deleteNotice(noticeId) {
+		if (confirm("Bu duyuruyu silmek istediğinizden emin misiniz?")) {
+			fetch(`/Admin/NoticeEdit/NoticeDelete/${noticeId}`, {
+				method: 'POST',
+				headers: { 'Content-Type': 'application/json' }
+			})
+			.then(response => {
+				if (response.ok) {
+					alert("Duyuru başarıyla silindi!");
+					location.reload();
+				} else {
+					alert("Silme işlemi başarısız!");
+				}
+			})
+			.catch(error => console.error('Hata:', error));
+		}
+	}
+
+</script>

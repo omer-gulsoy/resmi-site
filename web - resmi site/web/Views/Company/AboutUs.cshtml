@@ -1,0 +1,123 @@
+﻿@model List<entity.Concrate.Service>
+@{
+	ViewData["Title"] = "Hakkımızda";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<head>
+	<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:ital,wght@1,400&display=swap" rel="stylesheet">
+
+</head>
+<style>
+
+	.section_content_text p {
+		font-family: 'Roboto Slab', serif;
+		font-style: italic;
+		font-size: 16px;
+		line-height: 1.7;
+		color: #555; /* Hafif gri ton */
+	}
+
+</style>
+<div class="about_area pt-85">
+	<div class="container">
+		<div class="row d-flex align-items-center pd_gap nagative_mb">
+			<div class="col-lg-6">
+				<div class="about_skill_thumb ml-2 mr-4">
+					<img src="~/templates/assets/images/galery/8.jpg" alt="" />
+				</div>
+			</div>
+			<div class="col-lg-6">
+				<div class="section_title text_left mb-5">
+					<div class="section_sub_title uppercase mb-3">
+						<h6>KURUMSAL</h6>
+					</div>
+					<div class="section_main_title">
+						<h1>Şirketimiz Hakkında</h1>
+						<h1><span>TRtek Yazılım</span></h1>
+					</div>
+					<div class="em_bar">
+						<div class="em_bar_bg"></div>
+					</div>
+					<div class="section_content_text pt-4">
+						<p>
+							TRtek yazılım; AR-GE çalışmalarına önem vererek %100 web tabanlı Mobil Uygulamalar (Tablet Uygulamaları, El Terminali Uygulamaları, Akıllı Telefon Uygulamaları [Android, iOS]) geliştirmiş ve geliştirmeye de devam etmektedir.
+						</p>
+						<p>
+							TRtek Yazılım; 2008 yılında Sağlık Bakanlığı’na bağlı Ağız ve Diş Sağlığı Merkez ve Hastaneleri Bilgi Yönetim Sistemleri (HBYS) yazılımlarını son teknolojileri kullanarak üretmeye ve geliştirmeye başlamış ve hala da devam etmekle birlikte, İl ve Halk Sağlık Müdürlükleri ve Özel Muayenehaneler gibi bir çok alanda da yazılım, donanım ve destek hizmetleri vermeye devam etmektedir.
+						</p>
+						<p>
+							Tüm hizmetlerimizde kaliteyi prensip haline getirerek, son kullanıcının istek ve taleplerine her zaman önem ve öncelik vermek hedefimiz olmuştur.
+						</p>
+						<p>
+							Elektronik Belge Yönetim Sistemlerini çalışmakta olduğumuz tüm kurum ve kuruluşların hizmetine sunduk.
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="flipbox_area pt-250 pb-75" style="background-image: url('@Url.Content("~/templates/assets/images/slider/slider-6.jpg")');
+            background-repeat: no-repeat;
+            background-size: cover;">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="section_title text_center white pt-30 mb-55">
+					<div class="section_sub_title uppercase mb-3">
+						<h6>HİZMET VE ÜRÜNLERİMİZ</h6>
+					</div>
+					<div class="section_main_title">
+						<h1>Hizmetlerimiz</h1>
+					</div>
+					<div class="em_bar">
+						<div class="em_bar_bg"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-4 col-md-6 col-sm-12 col-xs-6">
+				<div class="techno_flipbox mb-30">
+					@foreach (var servis in Model)
+					{
+						<div class="techno_flipbox_font">
+							<div class="techno_flipbox_inner">
+								<div class="techno_flipbox_icon">
+									<div class="icon">
+										<i class="flaticon-padlock"></i>
+									</div>
+								</div>
+								<div class="flipbox_title">
+									<h3>@servis.Title</h3>
+								</div>
+								<div class="flipbox_desc">
+									<p>
+										@servis.ShortText
+									</p>
+								</div>
+							</div>
+						</div>
+						<div class="techno_flipbox_back">
+							<div class="techno_flipbox_inner">
+								<div class="flipbox_title">
+									<h3>@servis.Title</h3>
+								</div>
+								<div class="flipbox_desc">
+									<p>
+										@servis.ShortText
+									</p>
+								</div>
+								<div class="flipbox_button">
+									<a href="~/ProductAndService/ServiceDetails/@servis.Service_Id">
+										Read More<i class="fa fa-angle-double-right"></i>
+									</a>
+								</div>
+							</div>
+						</div>						
+					}
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

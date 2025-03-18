@@ -1,0 +1,78 @@
+﻿
+@{
+    ViewData["Title"] = "Demo Başvurusu Formu";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-xxl flex-grow-1 container-p-y">
+	<h4 class="fw-bold py-3 mb-4"><span class="text-muted fw-light">Yönetici Paneli /</span> Demo Başvurusu </h4>
+	<hr class="my-5" />
+	<!-- Bordered Table -->
+	<div class="card">
+		<h5 class="card-header">Demo Başvurusu Formu</h5>
+		<div class="card-body">
+			<div class="table-responsive text-nowrap">
+				<table class="table table-bordered">
+					<thead>
+						<tr style="text-align:center">
+							<th><b>İSİM SOYİSİM</b></th>
+							<th><b>KURUM İSMİ</b></th>
+							<th><b>UNVAN</b></th>
+							<th><b>CEP TELEFONU</b></th>
+							<th><b>CEP TELEFONU</b></th>
+							<th style="width: 80px;"><b>SİL</b></th>
+						</tr>
+					</thead>
+					<tbody>
+						@foreach (var item in ViewBag.Contacts)
+						{
+							<tr style="text-align:center">
+								<td><b>@item.FirstName @item.LastName</b></td>
+								<td><a href="mailto:@item.Email">@item.Email</a></td>
+								<td><a href="tel:@item.Phone">@item.Phone</a></td>
+								<td>
+									<button class="btn btn-primary" onclick="openModal('@item.FirstName @item.LastName', '@item.Message')">
+										Görüntüle
+									</button>
+								</td>
+
+								<td><a href="~/Admin/ContactForm/ContactDelete/@item.ContactForm_Id	">	<i class="menu-icon tf-icons bx bx-trash"></i></a></td>
+							</tr>
+
+						}
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+	<!--/ Bordered Table -->
+	<hr class="my-5" />
+	<!-- Borderless Table -->
+</div>
+
+<!-- Mesaj Görüntüleme Modalı -->
+<div class="modal fade" id="messageModal" tabindex="-1" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title" id="messageModalTitle"></h5>
+				<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Kapat"></button>
+			</div>
+			<div class="modal-body" id="messageModalBody"></div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Kapat</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<script>
+	function openModal(name, message) {
+		document.getElementById("messageModalTitle").innerText = name;
+		document.getElementById("messageModalBody").innerText = message;
+		var modal = new bootstrap.Modal(document.getElementById("messageModal"));
+		modal.show();
+	}
+</script>
+

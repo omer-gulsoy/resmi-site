@@ -1,0 +1,180 @@
+﻿@model entity.Concrate.ContactForm;
+@{
+	ViewData["Title"] = "İletişim";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+	.single_contact_now {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		height: 90%;
+	}
+
+	.single_contact_now_inner {
+		display: flex;
+		flex-direction: column;
+		height: 100%;
+	}
+
+</style>
+<!-- ============================================================== -->
+<!-- Start Techno Contact Address Area -->
+<!-- ============================================================== -->
+<div class="contact_address_area bg_color2 pt-80 pb-70">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="section_title text_center mb-55">
+					<div class="section_sub_title uppercase mb-3">
+						<h6>İLETİŞİM</h6>
+					</div>
+					<div class="section_main_title">
+						<h1>İletişim Bilgilerimiz</h1>
+					</div>
+					<div class="em_bar">
+						<div class="em_bar_bg"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-4 col-md-6 col-sm-12">
+				<div class="single_contact_now">
+					<div class="single_contact_now_inner">
+						<div class="single_contact_now_icon">
+							<i class="fa fa-phone"></i>
+						</div>
+						<div class="single_contact_now_content">
+							<h4>Telefon Numaramız</h4>
+							<br />
+							@foreach (var item in ViewBag.Phone)
+							{
+								<p class="m-0 pt-2">@item.Text</p>
+							}
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6 col-sm-12">
+				<div class="single_contact_now">
+					<div class="single_contact_now_inner">
+						<div class="single_contact_now_icon">
+							<i class="fa fa-envelope-o"></i>
+						</div>
+						<div class="single_contact_now_content">
+							<h4>E-Posta Adresimiz</h4><br />
+							@foreach (var item in ViewBag.Email)
+							{
+								<p class="m-0 pt-2">@item.Text</p>
+							}
+						</div><br />
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6 col-sm-12">
+				<div class="single_contact_now">
+					<div class="single_contact_now_inner">
+						<div class="single_contact_now_icon">
+							<i class="fa fa-map-marker"></i>
+						</div>
+						<div class="single_contact_now_content">
+							<h4>Ofis Adresimiz</h4>
+							@foreach (var item in ViewBag.Adress)
+							{
+								<p class="m-0 pt-2">@item.Text</p>
+							}
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- ============================================================== -->
+<!-- End Techno Contact Address Area -->
+<!-- ============================================================== -->
+<!--==================================================-->
+<!----- End Techno Map Area ----->
+<!--==================================================-->
+<div class="google_map_area">
+	<div class="row-fluid">
+		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+			<div class="map">
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.6728920238297!2d29.881587476070223!3d40.703201271394946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cb43ffa1beb6e9%3A0xdfaaba2452e21b38!2sTRTEK%20YAZILIM%20Ltd.%20%C5%9Eti!5e0!3m2!1str!2str!4v1740746171845!5m2!1str!2str" width="1500" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+			</div>
+		</div>
+	</div>
+</div>
+<!--==================================================-->
+<!----- End Techno Map Area ----->
+<!--==================================================-->
+<!--==================================================-->
+<!----- Start Techno Contact Area ----->
+<!--==================================================-->
+<div class="appointment_form pb-100">
+	<div class="container">
+		<div class="row nagative_margin">
+			<div class="col-xl-12">
+				<div class="appointment_form_inner">
+					<div class="appointment_title pb-35">
+						<h1>İletişim Formu</h1>
+					</div>
+					<form id="contact_form"
+						  method="POST"
+						  id="dreamit-form">
+						<div class="row">
+							<div class="col-lg-6">
+								<h6>İsminiz</h6>
+								<div class="form_box mb-30">
+									<input type="text" asp-for="FirstName" placeholder="İsminiz" class="input-black" />
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<h6>Soyisminiz</h6>
+								<div class="form_box mb-30">
+									<input type="text" asp-for="LastName" placeholder="Soyisminiz" class="input-black" />
+								</div>
+							</div>
+
+							<div class="col-lg-6">
+								<h6>E-Posta Adresiniz</h6>
+								<div class="form_box mb-30">
+									<input type="email"
+										   asp-for="Email"
+										   placeholder="E-Posta Adresiniz" />
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<h6>Telefon Numaranız</h6>
+								<div class="form_box mb-30">
+									<input type="text"
+										   asp-for="Phone"
+										   placeholder="Telefon Numaranız" />
+								</div>
+							</div>
+
+							<div class="col-lg-12">
+								<h6>Masajınız</h6>
+								<div class="form_box mb-30">
+									<textarea Asp-For="Message"
+											  id="message"
+											  cols="30"
+											  rows="10"
+											  placeholder="Mesajınız"></textarea>
+								</div>
+								<div class="quote_btn text_center">
+									<button class="btn" type="submit"><b>Formu Gönder</b></button>
+								</div>
+							</div>
+						</div>
+					</form>
+					<div class="status"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--==================================================-->
+<!----- End Techno Contact Area ----->
+<!--==================================================-->
