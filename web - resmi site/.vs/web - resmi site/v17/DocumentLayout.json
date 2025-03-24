@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\win11\\Documents\\Projeler\\web - resmi site\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9B4921-F81D-4E4A-8F80-E7AA8CDD0F4A}|web\\web.csproj|c:\\users\\win11\\documents\\projeler\\web - resmi site\\web\\views\\shared\\components\\_footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9B4921-F81D-4E4A-8F80-E7AA8CDD0F4A}|web\\web.csproj|solutionrelative:web\\views\\shared\\components\\_footerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9B4921-F81D-4E4A-8F80-E7AA8CDD0F4A}|web\\web.csproj|c:\\users\\win11\\documents\\projeler\\web - resmi site\\web\\wwwroot\\templates\\brand-element.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B9B4921-F81D-4E4A-8F80-E7AA8CDD0F4A}|web\\web.csproj|solutionrelative:web\\wwwroot\\templates\\brand-element.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "brand-element.html",
+              "DocumentMoniker": "C:\\Users\\win11\\Documents\\Projeler\\web - resmi site\\web\\wwwroot\\templates\\brand-element.html",
+              "RelativeDocumentMoniker": "web\\wwwroot\\templates\\brand-element.html",
+              "ToolTip": "C:\\Users\\win11\\Documents\\Projeler\\web - resmi site\\web\\wwwroot\\templates\\brand-element.html",
+              "RelativeToolTip": "web\\wwwroot\\templates\\brand-element.html",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAK0CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-21T14:01:27.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_FooterPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\win11\\Documents\\Projeler\\web - resmi site\\web\\Views\\Shared\\Components\\_FooterPartial.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\Shared\\Components\\_FooterPartial.cshtml",
+              "ToolTip": "C:\\Users\\win11\\Documents\\Projeler\\web - resmi site\\web\\Views\\Shared\\Components\\_FooterPartial.cshtml",
+              "RelativeToolTip": "web\\Views\\Shared\\Components\\_FooterPartial.cshtml",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAJUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T13:55:43.65Z",
+              "EditorCaption": ""
             }
           ]
         }

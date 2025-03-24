@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 88 88">
+  <!-- Generator: Adobe Illustrator 29.3.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 146)  -->
+  <defs>
+    <style>
+      .st0 {
+        opacity: .6;
+      }
+
+      .st1 {
+        fill: #0084c9;
+        isolation: isolate;
+        opacity: .2;
+      }
+
+      .st2 {
+        fill: none;
+        stroke: #392c68;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_28">
+    <g id="Interoperability" class="st0">
+      <path class="st1" d="M19.1,43.4c-8,6.8-7.2,20.8,1.4,26.1,5.4,3.3,11.4,5.9,17.3,5.9,20.7.4,38.8-15.2,37.3-34.7-1.4-19.5-27.1-38-26.8-28,1.6,43.1-23.3,25.8-29.2,30.7Z"/>
+    </g>
+    <g>
+      <circle class="st2" cx="40" cy="36" r="1"/>
+      <circle class="st2" cx="50" cy="36" r="1"/>
+      <circle class="st2" cx="60" cy="36" r="1"/>
+      <path class="st2" d="M61,51l-8,8v-8h-18c-3.3,0-6-2.7-6-6v-18c0-3.3,2.7-6,6-6h30c3.3,0,6,2.7,6,6v18c0,3.3-2.7,6-6,6h-4Z"/>
+      <path class="st2" d="M47,55v2c0,2.2-1.8,4-4,4h-10v6l-6-6h-6c-2.2,0-4-1.8-4-4v-16c0-2.2,1.8-4,4-4h4"/>
+    </g>
+  </g>
+</svg>

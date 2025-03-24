@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 88 88">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #211855;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .st1 {
+        fill: #087e68;
+        isolation: isolate;
+        opacity: .2;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="st0" d="M36.7,38.2v-8.4h-6.5l13.1-15.5c.3-.4.9-.4,1.2,0l13.1,15.5h-6.5v8.4"/>
+    <path class="st0" d="M36.9,74.1v-14.8c0-11.4,9.3-20.7,20.7-20.7h5.3v-6.5l15.5,13.1c.4.3.4.9,0,1.2l-15.5,13.1v-6.5h-4.8c-3.8,0-7,3.1-7,7v14"/>
+    <g>
+      <path class="st0" d="M36.9,60c0-.6,0-1.1-.2-1.6-.7-3.1-3.5-5.4-6.8-5.4h-4.8v6.4l-15.5-13.1c-.4-.3-.4-.9,0-1.2l15.5-13.1v6.5h5.3c2.2,0,4.3.3,6.3,1,2.7.9,5.2,2.2,7.3,4.1"/>
+      <path class="st0" d="M36.9,74"/>
+    </g>
+  </g>
+  <g id="Organization">
+    <path class="st1" d="M29.7,34.3c5.9-8.8,15.1-15.8,23-16.8,1.4-.1,4.1-.4,6.8.9,3,1.5,4.1,4.3,4.4,5.1,1.6,4.1-13.3,4.9-14,11-1.1,9.3,15.4,14.3,13.5,23.7-.3,1.4-.8,3.5-2.4,5.7,0,0-2.3,3.3-6.4,5.3-9,4.2-23.9-1-28.9-11.5-1.4-3-1.7-5.6-1.7-6.4-.7-7.3,3.3-13.3,5.7-17Z"/>
+  </g>
+</svg>

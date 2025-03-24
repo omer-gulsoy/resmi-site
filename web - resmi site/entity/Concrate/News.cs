@@ -11,7 +11,7 @@ namespace entity.Concrate
     {
 		[Key]
 		public int News_Id { get; set; }
-		public DateTime? Date { get; set; }
+		public DateOnly? Date { get; set; }
 		public string? Title { get; set; }
 		public string? PreDescription { get; set; }
 		public string? Content { get; set; }

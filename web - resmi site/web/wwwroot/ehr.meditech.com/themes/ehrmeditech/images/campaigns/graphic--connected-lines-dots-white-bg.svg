@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1900 1000">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke-dasharray: 6;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+
+      .st0, .st1, .st2 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .st0, .st2 {
+        stroke: #e7e9ed;
+      }
+
+      .st1 {
+        stroke: #26255e;
+      }
+
+      .st1, .st2 {
+        stroke-width: 3px;
+      }
+
+      .st3 {
+        fill: #27b56f;
+      }
+
+      .st4 {
+        fill: #ed6e57;
+      }
+
+      .st5 {
+        fill: #1ebfd5;
+      }
+
+      .st6 {
+        fill: #fdbc4e;
+      }
+
+      .st7 {
+        fill: #e7e9ed;
+      }
+    </style>
+  </defs>
+  <line class="st2" x1="-4.7" y1="378.5" x2="537.8"/>
+  <line class="st0" x1="-4.7" y1="273.4" x2="89.6" y2="312.7"/>
+  <ellipse class="st7" cx="89.6" cy="312.7" rx="8.1" ry="7.5"/>
+  <ellipse class="st7" cx="1314.7" cy="25" rx="8.1" ry="7.5"/>
+  <ellipse class="st7" cx="1808.7" cy="694.3" rx="8.1" ry="7.5"/>
+  <line class="st2" x1="1900" y1="665.9" x2="809.8" y2="1000"/>
+  <line class="st0" x1="1275.9" y1="857.7" x2="1565.1" y2="1000"/>
+  <line class="st2" x1="-4.7" y1="802.2" x2="1900" y2="882.5"/>
+  <line class="st2" x1="-4.7" x2="369.8" y2="115.1"/>
+  <line class="st0" x1="369.8" y1="115.1" x2="1565.1"/>
+  <ellipse class="st4" cx="1279.2" cy="857.7" rx="14.2" ry="13.3"/>
+  <ellipse class="st5" cx="369.8" cy="115.1" rx="14.2" ry="13.3"/>
+  <line class="st0" x1="143.6" y1="1000" x2="89.6" y2="312.7"/>
+  <line class="st2" x1="1898.4" y1="305.2" x2="1261.6"/>
+  <ellipse class="st3" cx="127.9" cy="808.5" rx="14.2" ry="13.3"/>
+  <line class="st0" x1="1683.8" y1="202.6" x2="1841.6"/>
+  <line class="st2" x1="1807.3" y1="688.4" x2="1632.5"/>
+  <ellipse class="st6" cx="1683.8" cy="202.6" rx="14.2" ry="13.3"/>
+  <path class="st1" d="M1711.7,1000"/>
+  <line class="st0" x1="1695.7" y1="1000" x2="1807.3" y2="701.8"/>
+</svg>
